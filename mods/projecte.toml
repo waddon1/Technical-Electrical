@@ -1,0 +1,13 @@
+name = "ProjectE"
+filename = "ProjectE-1.18.2-PE1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3722/831/ProjectE-1.18.2-PE1.0.1.jar"
+hash-format = "sha1"
+hash = "8d462fe04aaaa01a8bb78e8a9ca789f528c92f4c"
+
+[update]
+[update.curseforge]
+file-id = 3722831
+project-id = 226410

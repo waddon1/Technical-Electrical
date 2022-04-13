@@ -1,0 +1,13 @@
+name = "Technical Electrical Resources"
+filename = "TER.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3749/341/TER.zip"
+hash-format = "sha1"
+hash = "8aff1b90731335ecd76bed52fb22452a31b21b80"
+
+[update]
+[update.curseforge]
+file-id = 3749341
+project-id = 389642

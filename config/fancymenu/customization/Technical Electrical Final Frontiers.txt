@@ -1,0 +1,268 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -53
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=400322%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 0.4
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = bottom-left
+  x = 5
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=604382%
+  seconds = 0.2
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = bottom-left
+  x = 80
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=376322%
+  seconds = 0.8
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -53
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=400382%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 0.6
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = -53
+  action = movebutton
+  y = 94
+}
+
+customization {
+  identifier = %id=502382%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 1.2
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = bottom-left
+  x = 30
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=376382%
+  seconds = 0.4
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -53
+  action = movebutton
+  y = -56
+}
+
+customization {
+  identifier = %id=400298%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  seconds = 0.2
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -53
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=400346%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  orientation = bottom-left
+  x = 55
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=376346%
+  seconds = 0.6
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.8
+  buttonaction = joinserver
+  label = Connect to Server
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 267
+  width = 100
+  actionid = cec34e45-d5c7-4730-a91c-39492dbc79c21649863121290
+  action = addbutton
+  y = 234
+  delayappearance = true
+  value = te.apexmc.co
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 0.0
+  path = resources/logo.gif
+  fadein = true
+  fadeinspeed = 1.0
+  x = 180
+  width = 270
+  action = addtexture
+  actionid = a1e115af-b7cd-4ed3-9b05-a364049009b21649864730124
+  y = 31
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 66
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  url = https://pastebin.com/raw/CU9ukNuG
+  fadein = true
+  fadeinspeed = 1.0
+  multiline = true
+  x = 2
+  action = addwebtext
+  actionid = c499cb2c-4265-4a5a-942d-89dd72ee8e141649865079222
+  y = 318
+  delayappearance = true
+  alignment = left
+  delayappearanceeverytime = true
+}
+

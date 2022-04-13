@@ -1,0 +1,13 @@
+name = "AutoRegLib"
+filename = "AutoRegLib-1.7-53.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3642/382/AutoRegLib-1.7-53.jar"
+hash-format = "sha1"
+hash = "3e8f5e0bbf90af2555394b2f9ff704142f979465"
+
+[update]
+[update.curseforge]
+file-id = 3642382
+project-id = 250363

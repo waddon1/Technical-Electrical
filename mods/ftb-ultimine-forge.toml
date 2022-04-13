@@ -1,0 +1,13 @@
+name = "FTB Ultimine (Forge)"
+filename = "ftb-ultimine-forge-1802.3.3-build.55.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3725/672/ftb-ultimine-forge-1802.3.3-build.55.jar"
+hash-format = "sha1"
+hash = "52437049624fec58740f6490a7ef01724d5bb2f6"
+
+[update]
+[update.curseforge]
+file-id = 3725672
+project-id = 386134

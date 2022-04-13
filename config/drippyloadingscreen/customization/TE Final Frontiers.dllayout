@@ -1,0 +1,52 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = 000000
+}
+
+customization {
+  visible = false
+  x = -10
+  action = editlogo
+  y = -25
+}
+
+customization {
+  orientation = mid-centered
+  visible = false
+  x = 0
+  action = editprogressbar
+  y = -2
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 0
+  textcolor = #008080
+  action = addtext
+  actionid = d9ec9f59-5948-4ef2-8ff1-e1723a450aba1649861649738
+  y = 0
+  scale = 2.0
+  alignment = left
+  value = Made by Waddon1
+}
+
+customization {
+  orientation = mid-centered
+  x = 0
+  width = 300
+  actionid = 3c337d7d-ac31-4324-a052-4b388a3da73e1649861789373
+  y = 0
+  action = addcustomprogressbar
+  height = 17
+  direction = right
+  barcolor = #008080
+  backgroundcolor = #5c5c5c80
+}
+

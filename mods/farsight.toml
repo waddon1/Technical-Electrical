@@ -1,0 +1,13 @@
+name = "Farsight [Forge]"
+filename = "farsight-1.18.2-1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3686/934/farsight-1.18.2-1.7.jar"
+hash-format = "sha1"
+hash = "907f453e63b890752ee49c681ea4f719ccf04da0"
+
+[update]
+[update.curseforge]
+file-id = 3686934
+project-id = 495693

@@ -1,0 +1,13 @@
+name = "Cyclic"
+filename = "Cyclic-1.18.2-1.6.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3708/26/Cyclic-1.18.2-1.6.18.jar"
+hash-format = "sha1"
+hash = "21624c5bb2b4b494b1fdcc804db42faa4242d014"
+
+[update]
+[update.curseforge]
+file-id = 3708026
+project-id = 239286

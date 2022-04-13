@@ -1,0 +1,13 @@
+name = "FTB Essentials (Forge)"
+filename = "ftb-essentials-1802.1.7-build.40.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3725/666/ftb-essentials-1802.1.7-build.40.jar"
+hash-format = "sha1"
+hash = "3d11bf428d8947d9051219e5ff65ec7f7ce6f714"
+
+[update]
+[update.curseforge]
+file-id = 3725666
+project-id = 410811
