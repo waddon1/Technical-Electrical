@@ -1,12 +1,12 @@
 name = "Technical Electrical Final Frontiers"
-version = "0.1.3"
+version = "0.1.6"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0850a3cf6f60db0ad12e67ca12496e2a2eda7ed441d06ca0f7031a38cd6ca196"
+hash = "7bda85ca014e9630b6fb596f4832a0d40c9e9005002b63e59a2858b412e9e009"
 
 [versions]
-forge = "40.0.46"
+forge = "40.0.48"
 minecraft = "1.18.2"
