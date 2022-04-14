@@ -1,0 +1,13 @@
+name = "Beyond Earth (Forge)"
+filename = "Beyond-Earth-1.18.2-6.0k.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3701/740/Beyond-Earth-1.18.2-6.0k.jar"
+hash-format = "sha1"
+hash = "9ce0184929ec365cecf42f03962dddd2c0c440dd"
+
+[update]
+[update.curseforge]
+file-id = 3701740
+project-id = 377448
