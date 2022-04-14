@@ -1,0 +1,13 @@
+name = "Faithful 64x"
+filename = "Compliance 64x - Beta 3.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3652/893/Compliance%2064x%20-%20Beta%203.zip"
+hash-format = "sha1"
+hash = "ef27114d10a23fd67c332f7e9212341bed250f79"
+
+[update]
+[update.curseforge]
+file-id = 3652893
+project-id = 419139

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/craftpresence.properties"
-hash = "f4896c922e5a522529d0379c2ed3db5ebd48c62efc89a40243f6fc6c6cf66dc2"
-
-[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
@@ -211,6 +207,11 @@ hash = "e3c7642d1974dbd1d8b66a70337eb9b241369929b7e9e7061f45430394725477"
 metafile = true
 
 [[files]]
+file = "mods/faithful-64x.toml"
+hash = "c1a9d5d43ba99e1071a53b15f7a29dd405ce86dcad883635514f79cd305f1d6d"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.toml"
 hash = "3927e99b196036100535c436011a34a779862a2e003ea6682f7c7be90215ac0a"
 metafile = true
@@ -373,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.toml"
 hash = "b661260dee74de020109ea3b1977eac2a8ad33c88d8b1d7672d9b177d30e4c1f"
+metafile = true
+
+[[files]]
+file = "mods/oculus.toml"
+hash = "948dd53c36ee8214a041e40dfbfaa5d2cefc152a254f2ca57338b3da7e7d6344"
 metafile = true
 
 [[files]]
