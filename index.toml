@@ -146,11 +146,6 @@ hash = "4da6545422265c296ea0fbf880edc87384af4c582a5cf47f85ef46e2d9366be7"
 metafile = true
 
 [[files]]
-file = "mods/craftpresence.toml"
-hash = "a641cbd6f1a28ac046a9eb839c68f649e0a1905328e1a6760e63f9e753176a9d"
-metafile = true
-
-[[files]]
 file = "mods/create.toml"
 hash = "d94c566ce078b51f5ce58f01e770452ea6ecd0427682dd9037a7046e7d01e4d1"
 metafile = true
