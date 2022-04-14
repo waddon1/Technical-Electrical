@@ -351,6 +351,11 @@ hash = "e4e24ed908c42bb2641e3d428d32a68f8230ee45ca04a7d1d8350d10e87b1841"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.toml"
+hash = "43cc406e9db11e26e5f374b146c7eff4f947a484e7b92b84d63f85b19f0c6798"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.toml"
 hash = "62ab81773555354f0a774d1228eba67e63a05f3dd48a34967ac376ed13b1ddad"
 metafile = true
