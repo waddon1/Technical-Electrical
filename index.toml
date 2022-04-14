@@ -71,6 +71,11 @@ hash = "73955f63fa1abac052f4c250b2e694155f45d972b7217686702179a7cb4e1c01"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.toml"
+hash = "0707a5c7a79cb68771dc840bdb340ca104b49f1b3a7a03a8c4431b63d0ff58a3"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "3a3a9159ae2ad54f5f9b55e71a3de0493248bf95439d0760e371685abe2cf8b5"
 metafile = true
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/beyond-earth.toml"
-hash = "d6673b0ef66c8b3cc847d8dcafae5aa7d46182a0f0b1afe602e79d0c0ef2a845"
+hash = "d68ec05de32cc539b95ed60990368b1a46cc7c54f76635be2b9653e00b5ff17c"
 metafile = true
 
 [[files]]
@@ -307,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.toml"
-hash = "568d11c906c8282277f97ec1a8dd3ea1258ab298c6b84424c8d80ef3db9a3b46"
+hash = "4fee3d30c594a93598cbffe286a430721c62ad0c6f6c511ea6b2ec6f82ace475"
 metafile = true
 
 [[files]]
@@ -361,6 +366,16 @@ hash = "998f5980601a05e725c885c5a92ec294cafc59d0bd28e3e695a3165b499e0b5d"
 metafile = true
 
 [[files]]
+file = "mods/neon-craft-2-mod.toml"
+hash = "7a9ae3c26a1cfcf58b3b87e5c647cc1ca41ddd35912a247be058cc4190b3b056"
+metafile = true
+
+[[files]]
+file = "mods/occultism.toml"
+hash = "b661260dee74de020109ea3b1977eac2a8ad33c88d8b1d7672d9b177d30e4c1f"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.toml"
 hash = "3280198b80d96c195ebaa2dfd8a8f896234adef2aa241ff0340ebe43dd84e8f9"
 metafile = true
@@ -383,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.toml"
 hash = "a6ddf6c6dd6f90f4e6f4912b3d700165565f9661bb80741bf7e941f7d7a156b5"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.toml"
+hash = "82745446ee8337f27f08cb425ff50dfcd2819eee7b6411d748a83c18764540ff"
 metafile = true
 
 [[files]]
