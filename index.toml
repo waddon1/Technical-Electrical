@@ -461,6 +461,11 @@ hash = "93f702b88937758e88221a9f10d333784923eaf2734574418fdca4bf07f0c654"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.toml"
+hash = "f56f7e15f3bb2279761f209d3b3aa1d2e141cf0233a6712519a79ea35f2f59b6"
+metafile = true
+
+[[files]]
 file = "mods/statues.toml"
 hash = "a1c9e92d909124d0080e859cc68edafd3e6ad6af16b45d9c99e17cc9b5669082"
 metafile = true
