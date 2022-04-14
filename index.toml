@@ -132,6 +132,11 @@ hash = "8ecb5ca0d1af975c81740710a56b91a7822305d8b1ea422d21d165e995f412c6"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
+metafile = true
+
+[[files]]
 file = "mods/clumps.toml"
 hash = "22ca46b71f1a4288138b350b7251181668240cc3a93e7640ca1c3f6dab2748a8"
 metafile = true

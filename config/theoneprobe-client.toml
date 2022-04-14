@@ -48,7 +48,7 @@ showHorseStatSetting = "EXTENDED"
 showSilverfish = "NOT"
 #The distance to the left side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
-boxLeftX = 5
+boxLeftX = -1
 #The distance to the right side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
 boxRightX = -1
@@ -76,7 +76,7 @@ isVisible = true
 holdKeyToMakeVisible = false
 #The scale of the tooltips, 1 is default, 2 is smaller
 #Range: 0.4 ~ 5.0
-tooltipScale = 1.0
+tooltipScale = 1.2000000476837158
 #Color of the border of the chest contents box (0 to disable)
 chestContentsBorderColor = "ff006699"
 #0 means don't show break progress, 1 is show as bar, 2 is show as text
