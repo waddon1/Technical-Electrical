@@ -49,8 +49,12 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
+file = "config/simple-rpc.toml"
+hash = "676dd0441f8665b1256af93c74fafa3e1baa21a38dc3a659711ab293115ab7e9"
+
+[[files]]
 file = "config/theoneprobe-client.toml"
-hash = "56efd11050d9fa95a70bf1f6c6ed27b8789c82cba055ffad48daecbdfe6ff5c9"
+hash = "8907367b4ebb019fa00ef7917a822cc85d5202f7c95ac871c52bcdc67f4144db"
 
 [[files]]
 file = "config/theoneprobe-common.toml"
@@ -213,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/faithful-64x.toml"
-hash = "c1a9d5d43ba99e1071a53b15f7a29dd405ce86dcad883635514f79cd305f1d6d"
+hash = "42ad9420ad311f20d388acc870e42c90819f1765d04499904491835b66032856"
 metafile = true
 
 [[files]]
@@ -535,6 +539,10 @@ metafile = true
 file = "mods/zerocore.toml"
 hash = "4fc19fed78ce3d477278f9a6f92e11456ce981995a75894344a6f417df32ea23"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "07a68dd330355748f60ae610abc9baa491dd52a943868e39da72c20886de98b5"
 
 [[files]]
 file = "resources/logo.gif"
