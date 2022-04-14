@@ -81,6 +81,11 @@ hash = "fd25ccd28e1c378090dafbed95c4aab4438e96763863efb08dd78a7b79c35ecc"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.toml"
+hash = "4315d942eb3e8341c82cd60491de3cd231449d1b0afdde0f919e1e1df0ecf65f"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "c0afddb4b74eee8a3a5bca1f31106e8c49180c2c4371c6a4aaee34353bb82434"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.toml"
 hash = "7038dd99c8464ea491677c0d3d6aa959d00bdc37d2c7e3ff235a69c53707a02d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "bce5ea742dae02e66539c1f7b34071cd6219db84655b211e6502b7e16c5549ad"
 metafile = true
 
 [[files]]
