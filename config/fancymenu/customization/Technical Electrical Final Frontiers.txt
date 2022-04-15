@@ -112,7 +112,7 @@ customization {
   orientation = mid-centered
   x = -53
   action = movebutton
-  y = 94
+  y = 124
 }
 
 customization {
@@ -124,7 +124,7 @@ customization {
 
 customization {
   identifier = %id=502382%
-  seconds = 1.2
+  seconds = 1.4
   onlyfirsttime = false
   fadein = true
   fadeinspeed = 1.0
@@ -177,7 +177,7 @@ customization {
   orientation = mid-centered
   x = -53
   action = movebutton
-  y = 64
+  y = 94
 }
 
 customization {
@@ -189,7 +189,7 @@ customization {
 
 customization {
   identifier = %id=400346%
-  seconds = 1.0
+  seconds = 1.2
   onlyfirsttime = false
   fadein = true
   fadeinspeed = 1.0
@@ -219,7 +219,7 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   restartbackgroundanimations = true
   delayappearanceseconds = 0.8
   buttonaction = joinserver
@@ -227,11 +227,11 @@ customization {
   loopbackgroundanimations = true
   fadein = true
   fadeinspeed = 1.0
-  x = 267
+  x = -53
   width = 100
   actionid = cec34e45-d5c7-4730-a91c-39492dbc79c21649863121290
   action = addbutton
-  y = 234
+  y = 34
   delayappearance = true
   value = te.apexmc.co
   delayappearanceeverytime = true
@@ -239,16 +239,16 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = top-centered
   delayappearanceseconds = 0.0
   path = resources/logo.gif
   fadein = true
   fadeinspeed = 1.0
-  x = 180
+  x = -141
   width = 270
   action = addtexture
   actionid = a1e115af-b7cd-4ed3-9b05-a364049009b21649864730124
-  y = 31
+  y = 40
   delayappearance = true
   delayappearanceeverytime = true
   height = 66
@@ -270,5 +270,25 @@ customization {
   delayappearance = true
   alignment = left
   delayappearanceeverytime = true
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = openlink
+  label = Discord
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -53
+  width = 100
+  actionid = 18ba65a7-3a30-405e-941f-f497e43b3dfd1650039001298
+  action = addbutton
+  y = 64
+  delayappearance = true
+  value = https://discord.com/invite/JbfD6s9
+  delayappearanceeverytime = true
+  height = 20
 }
 

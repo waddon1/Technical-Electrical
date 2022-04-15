@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "470f406980ac039b29cb93ebe6710d9d78bab244a22f701fa00f8111f69f1e55"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "9c12c1c4c48fe9a91e16fc63d5ed111ceca7799793ade4da2cd00f9c9043c877"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "0c3fc7a698e782f3685a49bbada2045a22e3a9bb2757d9b61709d24fca71501d"
+
+[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
@@ -22,7 +34,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Technical Electrical Final Frontiers.txt"
-hash = "37ce8df3740eb688ec1f02736698f879c230b9ed2e4da68d0a447d528d86c8c3"
+hash = "e1200bc580df5e924ebe8da6e0a77fee5cec7cf7ddd89992433b10e159ddf798"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -201,6 +213,11 @@ hash = "f8ac8b6f454a2fdf363cb4df286a61731a8dd4b0be132c0993d0536e3ad6ad67"
 metafile = true
 
 [[files]]
+file = "mods/default-options.toml"
+hash = "0cfb0f6785c3599617a7cda03c1977aa8ab4f4d57769326e2d85dbc1f06fcf25"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.toml"
 hash = "386e69f27f48f0fc8acb08671e004b49cd4736a18900a2a973f1e13746301154"
 metafile = true
@@ -338,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.toml"
 hash = "3137d8766dbc57f6cbba0ad773706427d073c36a8b58f94fb65dc97aa8722da4"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.toml"
+hash = "c58cacbf3ca69af9fdc77e62056864f8436cb2e24c30bee62e5c2a88bbd5cb7a"
 metafile = true
 
 [[files]]
@@ -507,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.toml"
-hash = "5e6067392ab3ea889ac4945bbe8a390952b005e000d8c67c21890a39c34b0413"
+hash = "a01ca7e1ccc0777a9c0b23f5005f0b5e77d9e0e808c2fe3dd2adfe6de424f211"
 metafile = true
 
 [[files]]
@@ -538,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.toml"
 hash = "f56f7e15f3bb2279761f209d3b3aa1d2e141cf0233a6712519a79ea35f2f59b6"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.toml"
+hash = "12e976def15e5e2c0cef55496d9697a2fcbf01197fe476842ab2b286b486ee1e"
 metafile = true
 
 [[files]]
@@ -581,13 +608,5 @@ hash = "4fc19fed78ce3d477278f9a6f92e11456ce981995a75894344a6f417df32ea23"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "ebef318dcbbf38d167f064e3723207c6e723c53e570c3061c23e1cd593b84590"
-
-[[files]]
 file = "resources/logo.gif"
 hash = "8d90d57ddd301f98b448b07d97fbbc64c5a7ccc9f5e464978379b871ed529d0a"
-
-[[files]]
-file = "servers.dat"
-hash = "0c3fc7a698e782f3685a49bbada2045a22e3a9bb2757d9b61709d24fca71501d"
