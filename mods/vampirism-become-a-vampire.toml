@@ -1,0 +1,13 @@
+name = "Vampirism - Become a vampire!"
+filename = "Vampirism-1.18.2-1.8.2-alpha+20220413-2209.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3750/635/Vampirism-1.18.2-1.8.2-alpha+20220413-2209.jar"
+hash-format = "sha1"
+hash = "a6d2c2b7f9b350a102265095f3f05564a0104bd2"
+
+[update]
+[update.curseforge]
+file-id = 3750635
+project-id = 233029

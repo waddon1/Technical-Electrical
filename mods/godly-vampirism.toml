@@ -1,0 +1,13 @@
+name = "Godly Vampirism"
+filename = "GodlyVampirism-1.18.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3658/680/GodlyVampirism-1.18.1-1.0.4.jar"
+hash-format = "sha1"
+hash = "ed9c37eef3789675c32e3345ce128e2400cab9b0"
+
+[update]
+[update.curseforge]
+file-id = 3658680
+project-id = 441422
