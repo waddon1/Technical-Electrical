@@ -1,0 +1,13 @@
+name = "Electrodynamics"
+filename = "Electrodynamics-1.18.2-0.6.3-0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3751/858/Electrodynamics-1.18.2-0.6.3-0.jar"
+hash-format = "sha1"
+hash = "57d56f4215843e518aff108de29400c47cf01e92"
+
+[update]
+[update.curseforge]
+file-id = 3751858
+project-id = 316867

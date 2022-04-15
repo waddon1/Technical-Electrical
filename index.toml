@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "IMPORTANT.txt"
+hash = "b6e680bca45986fa54d4ce6c34d268dc7a38ede8055f14bc250cb654a7f02b63"
+
+[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
@@ -14,7 +18,7 @@ hash = "f15498a3da933cadfc0d59766ccb1ef1ed80f6075ded7c240f054a5ead173c9b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "52110f72e5ca99f7ecae10f68aa06fb66dbc52351ebefd5cba6b6c0c7338de96"
+hash = "10a2b2ea12a7b153d4ebc137b77048c8ca78069b50f9c91d31fcee8aaa2100c9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -22,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Technical Electrical Final Frontiers.txt"
-hash = "f311ca5277dcebd73134ea098ad3518104ec1198afbe5d1a9c48144c5d3373f3"
+hash = "37ce8df3740eb688ec1f02736698f879c230b9ed2e4da68d0a447d528d86c8c3"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -82,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "fd25ccd28e1c378090dafbed95c4aab4438e96763863efb08dd78a7b79c35ecc"
+hash = "d1ecf37608cf2590f670779da679b6ba57b94c0bd2b5b189a09d8a91d0f44414"
 metafile = true
 
 [[files]]
@@ -91,8 +95,18 @@ hash = "4315d942eb3e8341c82cd60491de3cd231449d1b0afdde0f919e1e1df0ecf65f"
 metafile = true
 
 [[files]]
+file = "mods/assembly-lines.toml"
+hash = "4333d432d5b098e4a46bb69c1802b872516e58fa9b3dd52437995575edef59ef"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "c0afddb4b74eee8a3a5bca1f31106e8c49180c2c4371c6a4aaee34353bb82434"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.toml"
+hash = "cca1ee81bf335edb908a4b777147b72c35dc3eb20ea5630a847e74c04492455e"
 metafile = true
 
 [[files]]
@@ -113,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/beyond-earth.toml"
 hash = "d68ec05de32cc539b95ed60990368b1a46cc7c54f76635be2b9653e00b5ff17c"
+metafile = true
+
+[[files]]
+file = "mods/blast-craft.toml"
+hash = "c56ddafca7d1bffa33c6ef3b7f16441f4d62448425bd48497d1b0a70b8d93abe"
 metafile = true
 
 [[files]]
@@ -193,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-view.toml"
 hash = "97291008d02e89a7f72543d14af41303b005361df48a6c621ce901e80d2fb4f3"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.toml"
+hash = "cb677de20386b8818d1bfba208246ea1cc6b88035dff933182ab4a34e10d7bd9"
 metafile = true
 
 [[files]]
@@ -321,6 +345,11 @@ hash = "3137d8766dbc57f6cbba0ad773706427d073c36a8b58f94fb65dc97aa8722da4"
 metafile = true
 
 [[files]]
+file = "mods/luggage.toml"
+hash = "fd5cd23a3c6b605a81985ff51c2ce266d766878c66413c4c84cf7b47107b9a54"
+metafile = true
+
+[[files]]
 file = "mods/mahou-tsukai.toml"
 hash = "4fee3d30c594a93598cbffe286a430721c62ad0c6f6c511ea6b2ec6f82ace475"
 metafile = true
@@ -381,6 +410,11 @@ hash = "7a9ae3c26a1cfcf58b3b87e5c647cc1ca41ddd35912a247be058cc4190b3b056"
 metafile = true
 
 [[files]]
+file = "mods/nuclear-science.toml"
+hash = "01f59747653e4bc4a9f9f1d1c9a31c57d6c3648e96baf99e2e2108f38f4bc6f2"
+metafile = true
+
+[[files]]
 file = "mods/occultism.toml"
 hash = "b661260dee74de020109ea3b1977eac2a8ad33c88d8b1d7672d9b177d30e4c1f"
 metafile = true
@@ -431,6 +465,11 @@ hash = "f89664f02fe725ba2e53bf7ee5d286f698411562e9f420b61f06da8c5b525936"
 metafile = true
 
 [[files]]
+file = "mods/prefab.toml"
+hash = "81cbefc05e3a30e7fd489285f0c72b8886e4aae9da7c081fed69387b029c39ad"
+metafile = true
+
+[[files]]
 file = "mods/projecte.toml"
 hash = "0f738b1dc332f25a348933aabfe0ec421d5dd5295d68af7acb631d3d8a149c26"
 metafile = true
@@ -472,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.toml"
-hash = "1da688387628aa45bf6b92e42c194a86ab98b8371a9e9663366a143b8f40c53c"
+hash = "5e6067392ab3ea889ac4945bbe8a390952b005e000d8c67c21890a39c34b0413"
 metafile = true
 
 [[files]]
@@ -542,8 +581,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "07a68dd330355748f60ae610abc9baa491dd52a943868e39da72c20886de98b5"
+hash = "ebef318dcbbf38d167f064e3723207c6e723c53e570c3061c23e1cd593b84590"
 
 [[files]]
 file = "resources/logo.gif"
 hash = "8d90d57ddd301f98b448b07d97fbbc64c5a7ccc9f5e464978379b871ed529d0a"
+
+[[files]]
+file = "servers.dat"
+hash = "0c3fc7a698e782f3685a49bbada2045a22e3a9bb2757d9b61709d24fca71501d"
