@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "IMPORTANT.txt"
-hash = "b6e680bca45986fa54d4ce6c34d268dc7a38ede8055f14bc250cb654a7f02b63"
-
-[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
@@ -261,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.toml"
-hash = "dac6979107a8b844db5261c307d844617ae887e038cf55fe7a823adb9936ef78"
+hash = "05165c1d25fdedb65ea36faea0d8664543eb25921b5a4443e54f9acd8b5ef202"
 metafile = true
 
 [[files]]
@@ -316,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "bce5ea742dae02e66539c1f7b34071cd6219db84655b211e6502b7e16c5549ad"
+hash = "f484523cc33834a80bda795d4312d2d80a80da5306ea86af1562bab1853870f7"
 metafile = true
 
 [[files]]
@@ -532,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.toml"
 hash = "93f702b88937758e88221a9f10d333784923eaf2734574418fdca4bf07f0c654"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.toml"
+hash = "19cb948207d898e33277d9a5452c55e20145d27496de70f4a70285abefd47992"
 metafile = true
 
 [[files]]
