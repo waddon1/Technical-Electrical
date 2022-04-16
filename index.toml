@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/technical-electrical-resources.toml"
-hash = "ae2bcdf9e7b59a70ec80d3f0e7258e6d9a4430cef8bce6b687f358e02e88e944"
+hash = "8d732c77902f7da14986684320cdbddc26cd5288e36dd47727427641c249ab99"
 metafile = true
 
 [[files]]
