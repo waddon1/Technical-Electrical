@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "d1ecf37608cf2590f670779da679b6ba57b94c0bd2b5b189a09d8a91d0f44414"
+hash = "6976d9934cf90379cac3435fbc1a3b1ef73629fef08458c6841cb23db29a4cb8"
 metafile = true
 
 [[files]]
@@ -175,11 +175,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.toml"
 hash = "58eee54d1ea7c6939b62a56882c23a9fa447d787f3342511f500a62ab2631c4b"
-metafile = true
-
-[[files]]
-file = "mods/cooking-for-blockheads.toml"
-hash = "4da6545422265c296ea0fbf880edc87384af4c582a5cf47f85ef46e2d9366be7"
 metafile = true
 
 [[files]]
@@ -268,11 +263,6 @@ hash = "90934d2c4e3ee5a6c912dbb5568ab8a0cfde3d026ef751dda29a92ca48e528f2"
 metafile = true
 
 [[files]]
-file = "mods/farming-for-blockheads.toml"
-hash = "12befe9f84d863628001f9df17c9ac28990bee80b039be2985951031aaa787b3"
-metafile = true
-
-[[files]]
 file = "mods/farsight.toml"
 hash = "05165c1d25fdedb65ea36faea0d8664543eb25921b5a4443e54f9acd8b5ef202"
 metafile = true
@@ -348,8 +338,18 @@ hash = "6a92c40512318020e2dc0e073c8d857174657db5a7ef6cfa591f8311f1a30c2a"
 metafile = true
 
 [[files]]
+file = "mods/guide-api-village-and-pillage.toml"
+hash = "a800bad55cc6aaaa100b5da6049ba51c5ed05fd8afe6a65a8e89b554d7b3749e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.toml"
-hash = "d46198a77d6d301e3693eff44c0ab7c50c4223ef251a6f79ed237d2928d883fe"
+hash = "7f51ad83dd61f551127758dd969daa0e60318046001e2235f14502d4ce80dd15"
+metafile = true
+
+[[files]]
+file = "mods/incendium.toml"
+hash = "6dbe600e847b1f126e5d88567c97d7f323e7dad7153ad795a3a4a9a327ecfc3d"
 metafile = true
 
 [[files]]
@@ -450,11 +450,6 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator.toml"
 hash = "3280198b80d96c195ebaa2dfd8a8f896234adef2aa241ff0340ebe43dd84e8f9"
-metafile = true
-
-[[files]]
-file = "mods/pams-harvestcraft-2-food-core.toml"
-hash = "a1e4bee54b25680ff89e6ed91c8bf0148da3ca3a35eab02074bfe9abac38d742"
 metafile = true
 
 [[files]]
