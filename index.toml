@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "470f406980ac039b29cb93ebe6710d9d78bab244a22f701fa00f8111f69f1e55"
+hash = "06803cdf8e1b3ed8d2baf8de5fc8f2abdc7aae955abbef8beb5758d837c8a6d2"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "9c12c1c4c48fe9a91e16fc63d5ed111ceca7799793ade4da2cd00f9c9043c877"
+hash = "d7cbde80568d1a0531634334f25375b3d7c07e7fff6a28da6a2650b6532bb988"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.toml"
-hash = "48c57a890b28f7a5ba5568b6d946b9e4b1ee0d266c61fe190ef0bee9685a6fe4"
+hash = "7608966443651baf8cd298d4e06eaaea38af328237b2d65e3bd66bfeaaccbffb"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "f484523cc33834a80bda795d4312d2d80a80da5306ea86af1562bab1853870f7"
+hash = "f725cf619b316267930a2b1960a06f88e1bb11979e65ff4ed202a46ef661270c"
 metafile = true
 
 [[files]]
