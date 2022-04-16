@@ -24,7 +24,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
-renderDistance:32
+renderDistance:9
 simulationDistance:8
 entityDistanceScaling:1.0
 guiScale:2
@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/TER.zip","file/Faithful 64x beta 4.zip"]
+resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/Faithful 64x beta 4.zip","file/TER.zip"]
 incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
 lang:en_us
