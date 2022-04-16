@@ -73,6 +73,14 @@ file = "config/theoneprobe-common.toml"
 hash = "919932f82b1ff7d2ff9dff66f38d31981f119200a031e2513890089e3b2384ed"
 
 [[files]]
+file = "config/vampirism-common.toml"
+hash = "d05c43cd9297ae9df99972d97ff94e104acaa446a9609dadc0fc914af564c216"
+
+[[files]]
+file = "config/werewolves-common.toml"
+hash = "f88387c8c3c55e28ca19242cbc5a89450a2ac9ebad1466a5e8845a9a8da28b99"
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "6367b9ffc915d72196b1f60286134e3eb61d5fd0f1eaf78b177e2a01bc970c28"
 metafile = true
@@ -275,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.toml"
 hash = "e5b1af7ac55972714632d36dbd0fa71e34a1b28ac7cd186719a0540315d849de"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.toml"
+hash = "6019d5ebbb4876d9403534fde6732c227fb1fc4567ce8367986a9483ac98e857"
 metafile = true
 
 [[files]]

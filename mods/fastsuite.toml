@@ -1,0 +1,13 @@
+name = "FastSuite"
+filename = "FastSuite-1.18.2-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3755/834/FastSuite-1.18.2-3.0.2.jar"
+hash-format = "sha1"
+hash = "619808f9824a229344cd0914b7e6a651eb28625a"
+
+[update]
+[update.curseforge]
+file-id = 3755834
+project-id = 475117
