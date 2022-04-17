@@ -61,6 +61,10 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
+file = "config/prefab.toml"
+hash = "9ceba5c873eadd353ec2dc2a08c650065ba343706dee358051401fa579e7a75a"
+
+[[files]]
 file = "config/simple-rpc.toml"
 hash = "676dd0441f8665b1256af93c74fafa3e1baa21a38dc3a659711ab293115ab7e9"
 
@@ -417,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-forcefields.toml"
-hash = "775c33274f648849347dfe43cebde6b5ad3a03e8cf0ecc140afc101f654fcdda"
+hash = "9188fe7b43fd12921453d463feee0a3fc734cff89b5862e42878f1bd523117ed"
 metafile = true
 
 [[files]]

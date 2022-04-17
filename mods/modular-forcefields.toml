@@ -1,13 +1,13 @@
 name = "Modular Force Fields Systems"
-filename = "Modular Forcefields-1.18.2-0.0.1-0.jar"
+filename = "Modular Forcefields-1.18.2-0.0.1-1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3756/230/Modular%20Forcefields-1.18.2-0.0.1-0.jar"
+url = "https://edge.forgecdn.net/files/3756/859/Modular%20Forcefields-1.18.2-0.0.1-1.jar"
 hash-format = "sha1"
-hash = "2ec08f24c473e0166bdcc44d42d8f366c934c3b9"
+hash = "365f7b4db070abe34fdd80eff9f0c3efdf066cfe"
 
 [update]
 [update.curseforge]
-file-id = 3756230
+file-id = 3756859
 project-id = 322896
