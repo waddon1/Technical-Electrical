@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "4315d942eb3e8341c82cd60491de3cd231449d1b0afdde0f919e1e1df0ecf65f"
+hash = "db08e58ca31bac5d679cf4000d5b00b29cc77b74aeef742f8d864d3c9864ed0a"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "90934d2c4e3ee5a6c912dbb5568ab8a0cfde3d026ef751dda29a92ca48e528f2"
+hash = "ad09e367c04fdd521be1a08992a02b684e6e275f75e26c24956776a9341992aa"
 metafile = true
 
 [[files]]

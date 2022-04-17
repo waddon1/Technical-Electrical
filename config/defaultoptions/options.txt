@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/Faithful 64x beta 4.zip","file/TER.zip"]
+resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/Faithful 64x beta 4.zip"]
 incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
 lang:en_us
