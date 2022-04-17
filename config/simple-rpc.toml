@@ -1,5 +1,7 @@
+
+#General Config Section
 [general]
-	#The Client ID of the Discord App to use. Replace this with your client id from the discord dashboard to change the name of the app
+	#The Client ID of the Discord App to use
 	clientID = 964188036516696124
 	#Enable/Disable the mod
 	enabled = true
@@ -12,6 +14,7 @@
 	#Internal Version Number. NO TOUCHY!
 	version = 12
 
+#The Game Loading event
 [init]
 	#Enable/Disable the Game Loading Event
 	enabled = true
@@ -19,33 +22,37 @@
 	description = "TE: Final Frontiers is loading"
 	#The second line of text under the app name
 	state = "Game Starting..."
-	#The Asset ID/URL of the image to display as the large image
+	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
 	buttons = []
 
+#The Main Menu event
 [main_menu]
 	#Enable/Disable the Main Menu Event
 	enabled = true
 	#The first line of text under the app name
 	description = "%player% is currently lazy"
-	#The second line of text under the app name
+	#The seconds line of text under the app name
 	state = "Chilling in the menu"
-	#The Asset ID/URL of the image to display as the large image
+	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
 	buttons = []
 
+#The Server List event
 [server_list]
 	#Enable/Disable the Server List Event
 	enabled = true
@@ -53,16 +60,18 @@
 	description = "%player% is looking for a server"
 	#The second line of text under the app name
 	state = "Searching for friends"
-	#The Asset ID/URL of the image to display as the large image
+	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
 	buttons = []
 
+#The Join Game Event
 [join_game]
 	#Enable/Disable the Join Game Event
 	enabled = true
@@ -70,16 +79,18 @@
 	description = "%player% is joining a game"
 	#The second line of text under the app name
 	state = "Joining Game"
-	#The Asset ID/URL of the image to display as the large image
+	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
 	buttons = []
 
+#The Single Player Event
 [single_player]
 	#Enable/Disable the Single Player Event
 	enabled = true
@@ -87,16 +98,18 @@
 	description = "Currently In %world%"
 	#The second line of text under the app name
 	state = "Playing lonely mode"
-	#The Asset ID/URL of the image to display as the large image
+	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
 	buttons = []
 
+#The Multi Player Event
 [multi_player]
 	#Enable/Disable the Multi Player Event
 	enabled = true
@@ -104,34 +117,40 @@
 	description = "Playing on %servername% with %players% players"
 	#The second line of text under the app name
 	state = "Playing online"
-	#The Asset ID/URL of the image to display as the large image
+	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
 	buttons = []
 
+#Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
 	description = "Playing Technical Electrical: Final Frontiers"
 	#The second line of text under the app name
 	state = "%player% is having fun"
-	#The Asset ID/URL of the image to display as the large image
+	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
 	largeImageText = "It's Minecraft %mcver%, but modded"
-	#The Asset ID/URL of the image to display as the small image
+	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
 	smallImageText = "%mods% mods installed"
+	#The buttons to display on Discord
 	buttons = []
 
+#Dimension Information Overrides
 [dimension_overrides]
+	#Allows you to override the displayed values for dimensions
 	enabled = false
 
+	#The Dimensions to override
 	[[dimension_overrides.dimensions]]
 		name = "overworld"
 		description = "%player% is in The Overworld"
@@ -158,5 +177,4 @@
 		largeImageText = "In the End"
 		smallImageKey = "mclogo"
 		smallImageText = "%mods% mods installed"
-
 
