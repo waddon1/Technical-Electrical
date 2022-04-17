@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.toml"
-hash = "05da098bf05cd210b6563fb1534ff2ddaab17bbd2837dda417c510117b8eafa9"
+hash = "4949e9704546db66a214549edcbf3954dcc81c1dfac91446f841a076bbc79a38"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/luggage.toml"
-hash = "fd5cd23a3c6b605a81985ff51c2ce266d766878c66413c4c84cf7b47107b9a54"
+hash = "86f01e939663422c5477f205a4ddf8409e27689bf8bd0df4be50802a9d25afd9"
 metafile = true
 
 [[files]]
@@ -413,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.toml"
 hash = "e4e24ed908c42bb2641e3d428d32a68f8230ee45ca04a7d1d8350d10e87b1841"
+metafile = true
+
+[[files]]
+file = "mods/modular-forcefields.toml"
+hash = "775c33274f648849347dfe43cebde6b5ad3a03e8cf0ecc140afc101f654fcdda"
 metafile = true
 
 [[files]]
@@ -512,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "6a49c23b04ae3e20b0286dc418192a4822fe569b195c12e9720e76a35d6903c5"
+hash = "70560884bbc973ccfc6fb85c5568e839730947a378acd1389fb62007bcaaf48d"
 metafile = true
 
 [[files]]
