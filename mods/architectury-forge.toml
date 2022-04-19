@@ -1,13 +1,13 @@
 name = "Architectury API (Forge)"
-filename = "architectury-4.2.49.jar"
+filename = "architectury-4.2.50.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3755/528/architectury-4.2.49.jar"
+url = "https://edge.forgecdn.net/files/3758/442/architectury-4.2.50.jar"
 hash-format = "sha1"
-hash = "f684a072b548c7a4a88312a2277faae4059e7727"
+hash = "0c880ce88a17ac957bfdd7822e7d8925dae9c718"
 
 [update]
 [update.curseforge]
-file-id = 3755528
+file-id = 3758442
 project-id = 419699

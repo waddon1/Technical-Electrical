@@ -434,7 +434,7 @@ hash = "06803cdf8e1b3ed8d2baf8de5fc8f2abdc7aae955abbef8beb5758d837c8a6d2"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "d7cbde80568d1a0531634334f25375b3d7c07e7fff6a28da6a2650b6532bb988"
+hash = "7d4d9f0b7b4b1951c43271954559eb6a05ef327b956689ff50a662381ee44956"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "6976d9934cf90379cac3435fbc1a3b1ef73629fef08458c6841cb23db29a4cb8"
+hash = "a650aea0ced691e43870bfa7e8b71b7d9a69e64924cee2ddeb4dab1b3734b189"
 metafile = true
 
 [[files]]
@@ -816,8 +816,18 @@ hash = "4333d432d5b098e4a46bb69c1802b872516e58fa9b3dd52437995575edef59ef"
 metafile = true
 
 [[files]]
+file = "mods/audio-extension-for-fancymenu-forge.toml"
+hash = "207b4d12e1329029b66dc775df2603c1ea7cea79f8a211fe11cc4983dd2eb1dd"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "c0afddb4b74eee8a3a5bca1f31106e8c49180c2c4371c6a4aaee34353bb82434"
+metafile = true
+
+[[files]]
+file = "mods/auudio-forge.toml"
+hash = "7b030e31eb8107fa855349926145ea2aa95b891e0f58bc4312d988f9ece4ed8d"
 metafile = true
 
 [[files]]
@@ -877,12 +887,17 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "22ca46b71f1a4288138b350b7251181668240cc3a93e7640ca1c3f6dab2748a8"
+hash = "adeb62a594b6902e3d036801c38e684e36edf9358e620e928d6d9c3732ab04d1"
+metafile = true
+
+[[files]]
+file = "mods/compact-machines.toml"
+hash = "f47ab408bdb3b407db8110f6a0809080a08a134343e47b54a378eaed5d1401f7"
 metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "58eee54d1ea7c6939b62a56882c23a9fa447d787f3342511f500a62ab2631c4b"
+hash = "c69828c3b36750e806e3c7e7325c6e0fa0e8568fada8e5401382fce1b4a9c590"
 metafile = true
 
 [[files]]
@@ -892,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.toml"
-hash = "4949e9704546db66a214549edcbf3954dcc81c1dfac91446f841a076bbc79a38"
+hash = "3dd7c0050fe266de5ddaa42892d71c042e2f1c2b587516f5e65f8169e2a2522a"
 metafile = true
 
 [[files]]
@@ -967,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "ad09e367c04fdd521be1a08992a02b684e6e275f75e26c24956776a9341992aa"
+hash = "bb85326a78f2d5aab175bdc6457cac6e9cc184e4b16cdc9a48925c96a6743dae"
 metafile = true
 
 [[files]]
@@ -1067,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "7a3cafb3184fd35766661e9afb1c26cc048f5345b26b168408526c805f0c30b3"
+hash = "8eb85b8f169682cbff9682ac5be3d059bdecc4aa9e69b0e2e4d6ce306fb72076"
 metafile = true
 
 [[files]]
@@ -1092,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.toml"
-hash = "74b4988d7309eb1dcd97fb7fdfecb29a3875539d15af14c2097c82b0a512c486"
+hash = "d5f1210951a476ce9b4c569ed90d70dfd64fb455b3553ae2cae8e565c49a85c1"
 metafile = true
 
 [[files]]
@@ -1157,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "b661260dee74de020109ea3b1977eac2a8ad33c88d8b1d7672d9b177d30e4c1f"
+hash = "e628bb3bbd78f3e8f027f7ca80282349828bce58022fe6d48a9e6ea06ef9913f"
 metafile = true
 
 [[files]]
@@ -1277,7 +1292,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "f56f7e15f3bb2279761f209d3b3aa1d2e141cf0233a6712519a79ea35f2f59b6"
+hash = "1feae7ca60a05fa23f0f7a55aa21fae0610859050c8e7f916aef489daec1a497"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.toml"
+hash = "afd3df88fa25cc70c02a8d110ad79a5429690f81e8af76653be51c7b28ace6e2"
 metafile = true
 
 [[files]]
@@ -1342,3 +1362,7 @@ hash = "2f01b31448c1f4cae6ab8469837fd8d418226a923f9009832fe5bb54fb49a8d9"
 [[files]]
 file = "resources/logo.gif"
 hash = "8d90d57ddd301f98b448b07d97fbbc64c5a7ccc9f5e464978379b871ed529d0a"
+
+[[files]]
+file = "resources/menu.ogg"
+hash = "24f8a0384cc745f6504a01e1ba4cafb91dc3250567611317ff48ba935e63d57f"

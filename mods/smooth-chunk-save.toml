@@ -1,0 +1,13 @@
+name = "Smooth Chunk Save[Forge/Fabric]"
+filename = "smoothchunk-1.18.2-1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3742/416/smoothchunk-1.18.2-1.7.jar"
+hash-format = "sha1"
+hash = "3d9e73627594d2b035a74b32fa6fcd0238030188"
+
+[update]
+[update.curseforge]
+file-id = 3742416
+project-id = 582327
