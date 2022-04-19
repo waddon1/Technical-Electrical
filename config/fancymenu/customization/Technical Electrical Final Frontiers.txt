@@ -292,3 +292,17 @@ customization {
   height = 20
 }
 
+customization {
+  orientation = mid-left
+  audio_source:817d9c52-2679-4236-afd9-59d8b554b7041650396737072 = resources/menu.ogg;EXTERNAL_LOCAL;100;0
+  loop = true
+  channel = music
+  x = 0
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 6b5ea4f0-9241-4505-8472-5cd2921956111650396723776
+  y = -25
+  once_per_session = false
+  height = 50
+}
+

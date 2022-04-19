@@ -1172,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "e628bb3bbd78f3e8f027f7ca80282349828bce58022fe6d48a9e6ea06ef9913f"
+hash = "b3b0e465258e2b626b00362412510b575df16b7f08364764da81192ec361e681"
 metafile = true
 
 [[files]]
@@ -1332,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "fccac3fc0d164c99796bb8888166be4a5237c9bc9dc98e01ff0c1eb3f2de9dc8"
+hash = "cc9fcfd70e83f84cf47ae360ab2d000e1d060855e924fb9b4a0fd5e54e9e0d63"
 metafile = true
 
 [[files]]
