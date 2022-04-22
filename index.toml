@@ -482,7 +482,7 @@ hash = "a75c558db46b0c87073324b056b79464db20183c35280585a76005ef00335f7e"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "10a2b2ea12a7b153d4ebc137b77048c8ca78069b50f9c91d31fcee8aaa2100c9"
+hash = "3444c667fd49945e2efc59edb80f8aa16b8108ed2dca8a9130c4d4ec6bce1d3a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -490,7 +490,15 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Technical Electrical Final Frontiers.txt"
-hash = "e1200bc580df5e924ebe8da6e0a77fee5cec7cf7ddd89992433b10e159ddf798"
+hash = "40754eb4e3c191c1f8190015e4abd18c787660452c581c9c8ea2a35d45964f46"
+
+[[files]]
+file = "config/fancymenu/extensions/fmaudio/config.cfg"
+hash = "9b1608997f67118abacb8309255bdbb29a3a6fcdb3131533ace8d4a48686ceb9"
+
+[[files]]
+file = "config/fancymenu/extensions/fmaudio/locals/en_us.local"
+hash = "6a2de605aaf07a8f635d9df3b589ff2162fbef2f26eb73dbd17d894c0d261349"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -498,7 +506,7 @@ hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "01b9e0b0b0332e282798041e16badf6804bec9b46edcd279a5c6d9110ae31ffe"
+hash = "af0798bcdc6dcbf2a207afc464e520b010b6a92716d5b3c85fad6745a25b7cd7"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -563,10 +571,6 @@ hash = "047dd4b91fc96f6936723c9672e2eada0449547f16de10585f6677635bc4e30c"
 [[files]]
 file = "config/gravestone-client.toml"
 hash = "25d84c998664dc4aea1c5dd2ae85f25088b517082b74ad44253f3b09eb40fa94"
-
-[[files]]
-file = "config/guideapi_vp-common.toml"
-hash = "8ab0ab5d6b1e7da286296dca10c324365ca269f5deb6d9003bfa3425ef50867b"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
@@ -745,22 +749,6 @@ file = "config/theoneprobe-common.toml"
 hash = "919932f82b1ff7d2ff9dff66f38d31981f119200a031e2513890089e3b2384ed"
 
 [[files]]
-file = "config/vampirism-client.toml"
-hash = "b9181c09bd9b4b9faaed5f2cbba3d616fa345e2d7cefca98c945a9c919e45c0e"
-
-[[files]]
-file = "config/vampirism-common.toml"
-hash = "d05c43cd9297ae9df99972d97ff94e104acaa446a9609dadc0fc914af564c216"
-
-[[files]]
-file = "config/werewolves-client.toml"
-hash = "1e2573b631d5b725df975fa1ba17b88ca4caa42144a1733b183b4ff4ccfb8c3c"
-
-[[files]]
-file = "config/werewolves-common.toml"
-hash = "f88387c8c3c55e28ca19242cbc5a89450a2ac9ebad1466a5e8845a9a8da28b99"
-
-[[files]]
 file = "config/xaerominimap.txt"
 hash = "17bb38d9f5d3f674faf33738c90c085733d07850109e2676215b3d50d3175411"
 
@@ -798,6 +786,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "3a3a9159ae2ad54f5f9b55e71a3de0493248bf95439d0760e371685abe2cf8b5"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.toml"
+hash = "434100582ce86f68c8dd5b087b474095f1f8c0f69153b730efb434ed19bc1cbd"
 metafile = true
 
 [[files]]
@@ -977,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.toml"
-hash = "3927e99b196036100535c436011a34a779862a2e003ea6682f7c7be90215ac0a"
+hash = "11d33a8375269eec0a539fb5409499a245982e58fbaa41376e9dada82cb83b48"
 metafile = true
 
 [[files]]
@@ -1056,18 +1049,8 @@ hash = "9070ffadf8213d57ddcd8d39d04b5f15789ba3a9c13652e398ab31f54ee6aebd"
 metafile = true
 
 [[files]]
-file = "mods/godly-vampirism.toml"
-hash = "f13e57a7ea0325bd3850e437e26443aa96804ae1018081e61d8484b3ced5d20a"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.toml"
 hash = "6a92c40512318020e2dc0e073c8d857174657db5a7ef6cfa591f8311f1a30c2a"
-metafile = true
-
-[[files]]
-file = "mods/guide-api-village-and-pillage.toml"
-hash = "a800bad55cc6aaaa100b5da6049ba51c5ed05fd8afe6a65a8e89b554d7b3749e"
 metafile = true
 
 [[files]]
@@ -1097,12 +1080,17 @@ metafile = true
 
 [[files]]
 file = "mods/luggage.toml"
-hash = "86f01e939663422c5477f205a4ddf8409e27689bf8bd0df4be50802a9d25afd9"
+hash = "f4fcf8bf7794105edc385ddf4fb8c55e9330626583c7eb107702c70e07be4f53"
 metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.toml"
 hash = "4fee3d30c594a93598cbffe286a430721c62ad0c6f6c511ea6b2ec6f82ace475"
+metafile = true
+
+[[files]]
+file = "mods/malum.toml"
+hash = "95b67e8dba15ca5fc05969addfd913c685b9dece06afda24eeaa2c4f84411ceb"
 metafile = true
 
 [[files]]
@@ -1172,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "b3b0e465258e2b626b00362412510b575df16b7f08364764da81192ec361e681"
+hash = "4f801ab47633c335ddd24a05657c653d41713f65fcb716c9419cb35dcbf47f5a"
 metafile = true
 
 [[files]]
@@ -1217,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "81cbefc05e3a30e7fd489285f0c72b8886e4aae9da7c081fed69387b029c39ad"
+hash = "f3b02ffc910e13dcad71745d43aa8f3513b6406780f2050add6a3c02b38f1d76"
 metafile = true
 
 [[files]]
@@ -1287,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup-experimental-settings.toml"
-hash = "19cb948207d898e33277d9a5452c55e20145d27496de70f4a70285abefd47992"
+hash = "ce3a44bb3032e2d66614a4f6472a93c7b3590b075b0ca45bdd107ed5ece434da"
 metafile = true
 
 [[files]]
@@ -1323,16 +1311,6 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.toml"
 hash = "c170c36eaf5c3266aae423f87d5186c4e7dd2220d03d11c1394796da7a86167c"
-metafile = true
-
-[[files]]
-file = "mods/vampirism-become-a-vampire.toml"
-hash = "218ef09daee1c2c1a458211f549523e8187a600955aadc6e32b2081e8c77540c"
-metafile = true
-
-[[files]]
-file = "mods/werewolves-become-a-beast.toml"
-hash = "cc9fcfd70e83f84cf47ae360ab2d000e1d060855e924fb9b4a0fd5e54e9e0d63"
 metafile = true
 
 [[files]]

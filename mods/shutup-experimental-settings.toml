@@ -1,13 +1,13 @@
 name = "Shutup Experimental Settings!"
-filename = "shutupexperimentalsettings-1.0.4-1.18+.jar"
+filename = "shutupexperimentalsettings-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3544/525/shutupexperimentalsettings-1.0.4-1.18+.jar"
+url = "https://edge.forgecdn.net/files/3759/881/shutupexperimentalsettings-1.0.5.jar"
 hash-format = "sha1"
-hash = "55a020cd5b97e35adf22e095f29a0c57d88872b4"
+hash = "ad722f0e86a61310bdcea8975a106f0a4148ccb2"
 
 [update]
 [update.curseforge]
-file-id = 3544525
+file-id = 3759881
 project-id = 407174
