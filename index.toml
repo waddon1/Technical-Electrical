@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "3a3a9159ae2ad54f5f9b55e71a3de0493248bf95439d0760e371685abe2cf8b5"
+hash = "a81d6a1183627cf2fdcb47a22c0ef3c532f395de6cd73278df81dda20b25730f"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "db08e58ca31bac5d679cf4000d5b00b29cc77b74aeef742f8d864d3c9864ed0a"
+hash = "567d4d9fc8f9d9ab944b3a2caac6d4738a9b8ca4c5e737c9f9cf04c5de08eac1"
 metafile = true
 
 [[files]]
@@ -1119,6 +1119,11 @@ hash = "e4e24ed908c42bb2641e3d428d32a68f8230ee45ca04a7d1d8350d10e87b1841"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.toml"
+hash = "eb0e1db7d07e8325df8cf2b67e85c8af4979d8f3df79cf7f17cf62381e585ad3"
+metafile = true
+
+[[files]]
 file = "mods/modular-forcefields.toml"
 hash = "9188fe7b43fd12921453d463feee0a3fc734cff89b5862e42878f1bd523117ed"
 metafile = true
@@ -1299,11 +1304,6 @@ hash = "a1c9e92d909124d0080e859cc68edafd3e6ad6af16b45d9c99e17cc9b5669082"
 metafile = true
 
 [[files]]
-file = "mods/technical-electrical-resources.toml"
-hash = "8d732c77902f7da14986684320cdbddc26cd5288e36dd47727427641c249ab99"
-metafile = true
-
-[[files]]
 file = "mods/terralith.toml"
 hash = "314bb864fbd249ff543bb842db256c9a34a4f00645086e2133abe02284f855b9"
 metafile = true
@@ -1343,4 +1343,4 @@ hash = "8d90d57ddd301f98b448b07d97fbbc64c5a7ccc9f5e464978379b871ed529d0a"
 
 [[files]]
 file = "resources/menu.ogg"
-hash = "24f8a0384cc745f6504a01e1ba4cafb91dc3250567611317ff48ba935e63d57f"
+hash = "d420141ccd4e339d7a19acffeaff5d06f971f4eab560de01fa66fc48552961b2"

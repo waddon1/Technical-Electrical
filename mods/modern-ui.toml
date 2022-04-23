@@ -1,0 +1,13 @@
+name = "Modern UI"
+filename = "ModernUI-1.18.2-3.4.3.102-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3726/421/ModernUI-1.18.2-3.4.3.102-universal.jar"
+hash-format = "sha1"
+hash = "4893a17ed88edf64dff02d91667efe9770c251b3"
+
+[update]
+[update.curseforge]
+file-id = 3726421
+project-id = 352491
