@@ -1,13 +1,13 @@
 name = "Blastcraft mod"
-filename = "Blastcraft-1.18.2-0.2.7-0.jar"
+filename = "Blastcraft-1.18.2-0.2.7-1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3751/865/Blastcraft-1.18.2-0.2.7-0.jar"
+url = "https://edge.forgecdn.net/files/3768/799/Blastcraft-1.18.2-0.2.7-1.jar"
 hash-format = "sha1"
-hash = "3d4b86b979dbd69eea14df3a1b59360a3fd26d45"
+hash = "60fdc34a8ed2fdcc47d9214e7267816640877fe5"
 
 [update]
 [update.curseforge]
-file-id = 3751865
+file-id = 3768799
 project-id = 405322

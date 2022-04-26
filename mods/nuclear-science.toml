@@ -1,13 +1,13 @@
 name = "Nuclear Science"
-filename = "Nuclear Science-1.18.2-0.4.8-5.jar"
+filename = "Nuclear Science-1.18.2-0.4.8-6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3751/860/Nuclear%20Science-1.18.2-0.4.8-5.jar"
+url = "https://edge.forgecdn.net/files/3768/783/Nuclear%20Science-1.18.2-0.4.8-6.jar"
 hash-format = "sha1"
-hash = "d770e67c95ef8999d0f94b484169f58a6293f273"
+hash = "b142ca1a3797cbe18cd710f559ae18bdfe1fce96"
 
 [update]
 [update.curseforge]
-file-id = 3751860
+file-id = 3768783
 project-id = 318646

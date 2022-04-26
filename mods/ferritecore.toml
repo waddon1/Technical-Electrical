@@ -1,13 +1,13 @@
 name = "FerriteCore (Forge)"
-filename = "ferritecore-4.2.0-forge.jar"
+filename = "ferritecore-4.2.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3672/146/ferritecore-4.2.0-forge.jar"
+url = "https://edge.forgecdn.net/files/3767/288/ferritecore-4.2.1-forge.jar"
 hash-format = "sha1"
-hash = "304cc2f2733ae944b04082d77138bf69c465ff08"
+hash = "ba3071bf50a8ffae349b7eca514415014e939267"
 
 [update]
 [update.curseforge]
-file-id = 3672146
+file-id = 3767288
 project-id = 429235
