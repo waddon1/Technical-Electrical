@@ -1,0 +1,13 @@
+name = "Connectivity[Forge/Fabric]"
+filename = "connectivity-1.18.2-2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3752/334/connectivity-1.18.2-2.8.jar"
+hash-format = "sha1"
+hash = "63bef8afdbd71ff55ccd28604d748e395d408d82"
+
+[update]
+[update.curseforge]
+file-id = 3752334
+project-id = 470193

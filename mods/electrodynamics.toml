@@ -1,13 +1,13 @@
 name = "Electrodynamics"
-filename = "Electrodynamics-1.18.2-0.6.3-1.jar"
+filename = "Electrodynamics-1.18.2-0.6.3-8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3768/740/Electrodynamics-1.18.2-0.6.3-1.jar"
+url = "https://edge.forgecdn.net/files/3775/452/Electrodynamics-1.18.2-0.6.3-8.jar"
 hash-format = "sha1"
-hash = "5bd28d41ecc9a31a2ecc614e827d77dc8b086ece"
+hash = "cfd914b279c98aa132d85a26e70b25e321d99bcb"
 
 [update]
 [update.curseforge]
-file-id = 3768740
+file-id = 3775452
 project-id = 316867

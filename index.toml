@@ -629,10 +629,6 @@ file = "config/occultism-common.toml"
 hash = "1cd8d11667909aab56a212507a67dc4de9293c33bae6e55b1a7358530b99f77e"
 
 [[files]]
-file = "config/oculus.properties"
-hash = "5b038f1fdfcca5fa9118a2a727b8651c4058c0dd3786a30f5aa19d9e1fc4873d"
-
-[[files]]
 file = "config/patchouli-client.toml"
 hash = "34b8a3f26fe585699ac60ef8749e8848640d0cafa7972b80beba11bb56595c60"
 
@@ -721,10 +717,6 @@ file = "config/sodium-options.json"
 hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
 
 [[files]]
-file = "config/statues-common.toml"
-hash = "0933913c0dc87a3a7b919caeaf3e173e8eee6cd99e6909656445d96a7d92a502"
-
-[[files]]
 file = "config/theoneprobe-client.toml"
 hash = "8907367b4ebb019fa00ef7917a822cc85d5202f7c95ac871c52bcdc67f4144db"
 
@@ -774,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-mekanistics.toml"
-hash = "434100582ce86f68c8dd5b087b474095f1f8c0f69153b730efb434ed19bc1cbd"
+hash = "2c36aa93ba44931eb31c43a6a77883f7f8b23b300f7f0db7acf1e6d07778be5e"
 metafile = true
 
 [[files]]
@@ -809,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.toml"
-hash = "847e6fa7868f676ac637bf4d55a5c6a57cbf39864d4f72e40eb2ed84b2db2fd1"
+hash = "609082bae4e578fbbb1cd2a2bb66e5e86bbe279a6cb3f7cfe2cda64a64f7e00c"
 metafile = true
 
 [[files]]
@@ -873,6 +865,11 @@ hash = "f47ab408bdb3b407db8110f6a0809080a08a134343e47b54a378eaed5d1401f7"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.toml"
+hash = "4eee7a2ed450e1edc6c6641c929e70aead547d3e4e1af2e0806cdf98e1cc681b"
+metafile = true
+
+[[files]]
 file = "mods/controlling.toml"
 hash = "c69828c3b36750e806e3c7e7325c6e0fa0e8568fada8e5401382fce1b4a9c590"
 metafile = true
@@ -924,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.toml"
-hash = "1ef36822a7d36d38d4b3b1e42441ea881f3d0b44ac55e191e39473d86422f04c"
+hash = "9ce7c4826195aaf14cc5b87c0a3f36da4b3eee33be666b7c84f91b315ee19107"
 metafile = true
 
 [[files]]
@@ -934,12 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/engineers-decor.toml"
-hash = "e558870fbe40b87b712bb667e8c151a9841c72c8d2f327071b96a0751ae77c3e"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.toml"
-hash = "318c7faed175a7ae6d14eaa15d13ffe7310a08dbc1e18b8b957e6ad9f8fa19f9"
+hash = "d141542d946d8ad3b81fc9444d960134cef0b3f9750f4dbd891da628911bc41f"
 metafile = true
 
 [[files]]
@@ -965,11 +957,6 @@ metafile = true
 [[files]]
 file = "mods/farsight.toml"
 hash = "05165c1d25fdedb65ea36faea0d8664543eb25921b5a4443e54f9acd8b5ef202"
-metafile = true
-
-[[files]]
-file = "mods/fast-leaf-decay.toml"
-hash = "86398a23d35a096723f938b8084068a31fd5a935bd87be33c3b2a718c3b2bfbd"
 metafile = true
 
 [[files]]
@@ -1039,7 +1026,12 @@ metafile = true
 
 [[files]]
 file = "mods/luggage.toml"
-hash = "f4fcf8bf7794105edc385ddf4fb8c55e9330626583c7eb107702c70e07be4f53"
+hash = "ae157c49dfe92c7a009b21cf5b75c8e34a926228a1f0bc7f891344b1efd228b1"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.toml"
+hash = "bd596d7efab9952edf30ade6e38cb956b712d0392a544770b540463c2aca4d98"
 metafile = true
 
 [[files]]
@@ -1119,17 +1111,12 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.toml"
-hash = "ed6223bbd19d2c4294cca0feb4a07bc05fdeaa2307d1e21b076a225caf64df0f"
+hash = "71c93bff9d765d96c4141d01fea0cdd66b9b5e6f3e9c8f58a8c425d2da262fb6"
 metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "02e909bb48de1e609244d9e6775930afbd8f51419052fc5504de892abf1ed3ab"
-metafile = true
-
-[[files]]
-file = "mods/oculus.toml"
-hash = "948dd53c36ee8214a041e40dfbfaa5d2cefc152a254f2ca57338b3da7e7d6344"
+hash = "8e43d818ae6184fbe3e2655d7abcac9230207f6b8de442bbd0a945ead873d603"
 metafile = true
 
 [[files]]
@@ -1164,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.toml"
-hash = "683e96d6f97c206ecfda7a282b317f850b461bd51e72addbb999983fbfc17479"
+hash = "cc2398db62f0a8f53970c8768dc51d05f006dc7c75f8fb82d502a14b8f2f344e"
 metafile = true
 
 [[files]]
@@ -1189,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "a0689e550614edcfa85f9a6a4c0d476a69840c52b3ea9709e6453438765cc1ad"
+hash = "76c7b43542ee9a67f927aeb7ba569c1de1c68766dbaecad391233021679acee0"
 metafile = true
 
 [[files]]
@@ -1200,6 +1187,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.toml"
 hash = "2b41cf76cf99e0939cf7aacbfc4822423cd810128601d318e3b17efb4a84d05c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.toml"
+hash = "10bf4f0fd51f1dc39ab74f30152402b16f76a5fcca3d6a3a6e5d0b0e7460eeb0"
 metafile = true
 
 [[files]]
@@ -1214,7 +1206,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-storage.toml"
-hash = "eaf34da1f3393679d11c265a9ebbeed24de0c5272905f63f79a61c38a4ae6dd9"
+hash = "eec1a5bb403f3237da9425e59bc0b7d2474939c59efff0365c30306d269d4de8"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Ballistix"
-filename = "Ballistix-1.18.2-0.5.3-1.jar"
+filename = "Ballistix-1.18.2-0.5.3-2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3768/793/Ballistix-1.18.2-0.5.3-1.jar"
+url = "https://edge.forgecdn.net/files/3771/283/Ballistix-1.18.2-0.5.3-2.jar"
 hash-format = "sha1"
-hash = "f21105724f27f83307748423a57e44ba950cff37"
+hash = "a1a40251436563da0a4492fe434ac2e3f102f1ac"
 
 [update]
 [update.curseforge]
-file-id = 3768793
+file-id = 3771283
 project-id = 443915
