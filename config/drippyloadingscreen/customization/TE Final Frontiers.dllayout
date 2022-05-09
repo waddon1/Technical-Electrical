@@ -29,11 +29,11 @@ customization {
 customization {
   orientation = mid-centered
   shadow = false
-  x = 0
+  x = -3
   textcolor = #008080
   action = addtext
   actionid = d9ec9f59-5948-4ef2-8ff1-e1723a450aba1649861649738
-  y = -46
+  y = -33
   scale = 2.0
   alignment = left
   value = Presents
@@ -41,10 +41,10 @@ customization {
 
 customization {
   orientation = bottom-centered
-  x = 0
+  x = 1
   width = 308
   actionid = 3c337d7d-ac31-4324-a052-4b388a3da73e1649861789373
-  y = -47
+  y = -48
   action = addcustomprogressbar
   height = 17
   direction = right
@@ -55,22 +55,22 @@ customization {
 customization {
   path = resources/jdlogo.png
   orientation = top-centered
-  x = -1
+  x = -12
   width = 249
   action = addtexture
   actionid = e5aadac5-6b3b-44d8-a1e7-be3d240bda811650211818564
-  y = 35
+  y = 38
   height = 100
 }
 
 customization {
-  path = resources/logo.gif
+  path = resources/logo2.png
   orientation = mid-centered
-  x = 0
-  width = 306
+  x = -4
+  width = 376
   action = addtexture
-  actionid = 5c9a970e-07e3-4746-9c47-2914ab4609851650212512811
-  y = 36
+  actionid = b33ee167-c998-4ead-9666-63f1f044ebb81651679348335
+  y = 46
   height = 100
 }
 

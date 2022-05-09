@@ -1,13 +1,13 @@
 name = "RFTools Power"
-filename = "rftoolspower-1.18-4.0.4.jar"
+filename = "rftoolspower-1.18-4.0.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3711/547/rftoolspower-1.18-4.0.4.jar"
+url = "https://edge.forgecdn.net/files/3783/991/rftoolspower-1.18-4.0.5.jar"
 hash-format = "sha1"
-hash = "9cebe1cd41bca9224c33b92229c6982498ca3899"
+hash = "fa484bca0e1b79ef1bd1802086d27760d7c6558c"
 
 [update]
 [update.curseforge]
-file-id = 3711547
+file-id = 3783991
 project-id = 290209

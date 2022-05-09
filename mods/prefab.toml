@@ -1,13 +1,13 @@
 name = "Prefab"
-filename = "prefab-1.8.2.1.jar"
+filename = "prefab-1.8.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3763/476/prefab-1.8.2.1.jar"
+url = "https://edge.forgecdn.net/files/3782/234/prefab-1.8.2.2.jar"
 hash-format = "sha1"
-hash = "b1f68d1dbf69ab72f2c97b890b6422aee25d467f"
+hash = "84acfd12bb5bd7eb3c3371be95d7e99b0c231dc4"
 
 [update]
 [update.curseforge]
-file-id = 3763476
+file-id = 3782234
 project-id = 246550

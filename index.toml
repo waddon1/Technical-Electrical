@@ -430,11 +430,11 @@ hash = "9424ceb580ec8f3f074ebcc0618bfceebb62bb44d64750c7df5964fc7713964c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "06803cdf8e1b3ed8d2baf8de5fc8f2abdc7aae955abbef8beb5758d837c8a6d2"
+hash = "da208278f6753c7c677ab5d3983feba3df06671669926cbdab80d89caa0823a4"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "7d4d9f0b7b4b1951c43271954559eb6a05ef327b956689ff50a662381ee44956"
+hash = "96d0caf3b86d663a347950516fc4328120a3c9acf99b3d879655e1b48f2e52e6"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -446,7 +446,7 @@ hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
 [[files]]
 file = "config/drippyloadingscreen/customization/TE Final Frontiers.dllayout"
-hash = "16bf839002ec72670f7e3de32ca336ab1666d7ee71ba639b80c31b299d290448"
+hash = "53fdb4d01c01066cd4e24d6f389a4f4e971c0887dd5aa6807d606a7979faeb20"
 
 [[files]]
 file = "config/drippyloadingscreen/locals/en_us.local"
@@ -490,7 +490,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Technical Electrical Final Frontiers.txt"
-hash = "40754eb4e3c191c1f8190015e4abd18c787660452c581c9c8ea2a35d45964f46"
+hash = "a0845089717322dbc05bb56a5f4cae6ee01214b9799f955d4241bd06a59f5c1b"
 
 [[files]]
 file = "config/fancymenu/extensions/fmaudio/config.cfg"
@@ -506,7 +506,7 @@ hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "af0798bcdc6dcbf2a207afc464e520b010b6a92716d5b3c85fad6745a25b7cd7"
+hash = "2496d5f076a277ae04f395d068eaac678c426200b24be568fa7bf6a7eb3b816e"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
@@ -518,7 +518,7 @@ hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
 
 [[files]]
 file = "config/fancymenu/locals/zh_cn.local"
-hash = "b9c3dfadba74762bfea5837060ca5bfb4dfd3b1fbcd65fb6c0d190df4ec611d6"
+hash = "f1c00a3c0fb7846f8aaf0b8e3f30368b9092352731ebbeb86b02bcdcd2f66abc"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -531,10 +531,6 @@ hash = "c7b7934f8ba236a94079b338e392c476f92d04c4cda554289bc095360ba2d16c"
 [[files]]
 file = "config/fastbench.cfg"
 hash = "139e35e6fa3e786e04b0f9648d4ea4c751b911df449458944a069a04bfbf3600"
-
-[[files]]
-file = "config/fastsuite.cfg"
-hash = "24a273c1bde0c0f5a3558e9c5d4079613da6137970c39cf2841443d4a6bdbb5a"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -697,6 +693,10 @@ file = "config/rubidium-mixins.properties"
 hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
 
 [[files]]
+file = "config/rubidium_extras.toml"
+hash = "8290fe593d2b1d41d3fce19b69523c00707494e4f24eb9407c935ae0b1142ebd"
+
+[[files]]
 file = "config/seamless_loading_screen-client.toml"
 hash = "9f837d1b63b457b54db1a1de7a8bceb496c0bcca377bb48a29085d11bddb6f2f"
 
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.toml"
-hash = "73955f63fa1abac052f4c250b2e694155f45d972b7217686702179a7cb4e1c01"
+hash = "5423ad985a14e6547e5173f22f0940bc554ece0ef0d96a4a8daad32c83e30634"
 metafile = true
 
 [[files]]
@@ -766,12 +766,12 @@ metafile = true
 
 [[files]]
 file = "mods/applied-mekanistics.toml"
-hash = "2c36aa93ba44931eb31c43a6a77883f7f8b23b300f7f0db7acf1e6d07778be5e"
+hash = "f1f93aeac1548727a7a991cd00c4ab75bcfbbb36fe904c8093621f184293defd"
 metafile = true
 
 [[files]]
-file = "mods/architectury-forge.toml"
-hash = "a650aea0ced691e43870bfa7e8b71b7d9a69e64924cee2ddeb4dab1b3734b189"
+file = "mods/architectury-api.toml"
+hash = "b0fb7ccc5f582fc382424e482ac6a20d6632ce085927711b61a587013ec0ff19"
 metafile = true
 
 [[files]]
@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.toml"
-hash = "d0f9ef1b3c3fb9f3d82c20a7b572ce3875f4815a089549955b12258ddcb47d38"
+hash = "fdbde66ab15e6fa59f2f879e8d665be672372ef7ee180e04b77fe5562c4ded9b"
 metafile = true
 
 [[files]]
@@ -850,8 +850,8 @@ hash = "8ecb5ca0d1af975c81740710a56b91a7822305d8b1ea422d21d165e995f412c6"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-forge.toml"
-hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
+file = "mods/cloth-config.toml"
+hash = "b580d42f92b7672d8fb7ccc32c04aa2637a28bd40bd68874e7b3b90a070eb805"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.toml"
-hash = "4eee7a2ed450e1edc6c6641c929e70aead547d3e4e1af2e0806cdf98e1cc681b"
+hash = "760581f1e86951bb3fa02e0764e0d3d44acc2ecde98aa77b6de8842e506eec12"
 metafile = true
 
 [[files]]
@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.toml"
-hash = "1d2b7dfb13288476deaad92fbe84d7249e158785ef5f46e6c4ad9eb214590b6c"
+hash = "7107d813236b1a54d8d3b2976ad049423863e0019b1e7a5a5642beffd0fddc75"
 metafile = true
 
 [[files]]
@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.toml"
-hash = "9ce7c4826195aaf14cc5b87c0a3f36da4b3eee33be666b7c84f91b315ee19107"
+hash = "22d0a20468a42e878388534b44aa3f3cd5bfbc9ad097635febc981f50ba69019"
 metafile = true
 
 [[files]]
@@ -946,12 +946,17 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.toml"
-hash = "11d33a8375269eec0a539fb5409499a245982e58fbaa41376e9dada82cb83b48"
+hash = "84448848d0b2ec343b47fb2e867948511e53a9d664a16d1152bea9b3286da4f2"
+metafile = true
+
+[[files]]
+file = "mods/fancy-gui-overhaul.toml"
+hash = "72ff9dc9a80f9d13d68ef9cc2a63a13f7c6b6816836fab38dc0b859e6574325d"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "0e0af5595b1f7121b6573b224c5a7224d31bdfe701e299173e43b9b366aeb6f9"
+hash = "a6c26d728e7421d93425c65f689805f46c73f28c026ae954ea8058a570584be5"
 metafile = true
 
 [[files]]
@@ -991,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "f725cf619b316267930a2b1960a06f88e1bb11979e65ff4ed202a46ef661270c"
+hash = "1f08c5fd2a8db41a22cd30f948b86239c7acd019d24a022d2cc1e8ea5190835e"
 metafile = true
 
 [[files]]
@@ -1036,12 +1041,17 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.toml"
-hash = "564f385ac0f46526098bbbb99482a0fe28b9ba951b6c48770fb056135bbd2a51"
+hash = "335188635e1d9e7aa1f0189c916540c03fe36702f3a5b724a1f527a625dcc7e2"
 metafile = true
 
 [[files]]
 file = "mods/malum.toml"
 hash = "84f5cc57c870ace0e4c15be97017d3302729b88e53e7e13b75269df9b0c5e412"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "a2ec792e4b7136a65524901d5ffbbb111c5733093e4bd9df5e7ae9e60df1f11c"
 metafile = true
 
 [[files]]
@@ -1111,12 +1121,12 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.toml"
-hash = "71c93bff9d765d96c4141d01fea0cdd66b9b5e6f3e9c8f58a8c425d2da262fb6"
+hash = "63e9fafbb0a351adcd6cae46ef1027ca51e0dd5a824542089f782cd734993dc0"
 metafile = true
 
 [[files]]
 file = "mods/occultism.toml"
-hash = "8e43d818ae6184fbe3e2655d7abcac9230207f6b8de442bbd0a945ead873d603"
+hash = "fcd1f1c48847a64224b87bae8318d136f903b21c5061078ee1b03e887ecbd629"
 metafile = true
 
 [[files]]
@@ -1141,17 +1151,17 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "a6ddf6c6dd6f90f4e6f4912b3d700165565f9661bb80741bf7e941f7d7a156b5"
+hash = "fee6e3878adeb041dbb942fbc58587b7bc634822dc7627b3436e5fadc8b0afb4"
 metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.toml"
-hash = "82745446ee8337f27f08cb425ff50dfcd2819eee7b6411d748a83c18764540ff"
+hash = "4ed105fc0351e3ea62f85d11eddc96790e01e9dcd5ec033fb04491341fe7f375"
 metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.toml"
-hash = "cc2398db62f0a8f53970c8768dc51d05f006dc7c75f8fb82d502a14b8f2f344e"
+hash = "9a17e0b147ab127e3982be16ad8305d9e41ec553b3ff17220ad99dd5e7688bd2"
 metafile = true
 
 [[files]]
@@ -1161,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.toml"
-hash = "f3b02ffc910e13dcad71745d43aa8f3513b6406780f2050add6a3c02b38f1d76"
+hash = "87213add29803125bbf1e3df7ab3993833190cf471f8088f80274640c0a2193c"
 metafile = true
 
 [[files]]
@@ -1176,7 +1186,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "76c7b43542ee9a67f927aeb7ba569c1de1c68766dbaecad391233021679acee0"
+hash = "bc1d55321fa646e916a03cfaac3c683180e0ce1a6e8793e32893fcd657263ddc"
 metafile = true
 
 [[files]]
@@ -1201,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.toml"
-hash = "bd5244a3d6e99c8f116d58c905ac83cdfbbc77ba56e2e3a4cf2a2c962c030f72"
+hash = "74bb41ba215869ddcc9688a1cb7ce2e4302ef503da4d1ebbb4ce3df952548347"
 metafile = true
 
 [[files]]
@@ -1246,12 +1256,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.toml"
-hash = "1feae7ca60a05fa23f0f7a55aa21fae0610859050c8e7f916aef489daec1a497"
+hash = "17f77b3393220288e5e4120fdb854d728b19c4a16831987eec87c81d95b5a85e"
 metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.toml"
-hash = "afd3df88fa25cc70c02a8d110ad79a5429690f81e8af76653be51c7b28ace6e2"
+hash = "b5bc1b43a63033296addda44ec7dff4424cc9a63a5d70c8ff7de89565cde3127"
 metafile = true
 
 [[files]]
@@ -1275,18 +1285,53 @@ hash = "c170c36eaf5c3266aae423f87d5186c4e7dd2220d03d11c1394796da7a86167c"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.toml"
+hash = "b8ae0233222bbf6ca00c3c6ffb16ae799b42a91a9b2bf1f276bd86a88cacd68f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair-play-edition.toml"
 hash = "ef870235839ef16b8ac2ba5c5e7dcfb1eef1c68c11279a2541261f318e1ffd34"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "fa9a42b294354e62dc9566ddcb2dd4e25be88a11ec9d50e2b66ee7ecdf74e80b"
+hash = "8ac304b227bf47b3d3d53377360efc5350db3a07f99f81dccab5b4a924e14be8"
 metafile = true
 
 [[files]]
 file = "mods/xnet.toml"
 hash = "7cff95a388f925fb5b3d76334eb4292df17994b6d8d4ce4b8ac1e4e21c38fc03"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.toml"
+hash = "7eb429287a0ea5a8b8ef51eeccfafc4e7364076b3273ebe5bb124efe4c3ebd66"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.toml"
+hash = "4b38880c4b1ca255de069603c8ef4cc08d37482342acc8efc9f9b92af190af4c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.toml"
+hash = "87d94687853687dbbd3f2a83c277e41ff387f1f759eabca7f926e5de9c152a2b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.toml"
+hash = "fd04c4fb5c48a6c5db71601a259d9076f2f07b66b035572716c89d754b385447"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.toml"
+hash = "041bb4c880fd6f2be7da5af999b228f6db7753f2bb0e90c0e90ad8eb9325cfb7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.toml"
+hash = "024beca071ea5c889bc3c15bf2e0ca9332bc2015decc03c68c512cf89ef435b5"
 metafile = true
 
 [[files]]
@@ -1301,6 +1346,10 @@ hash = "2f01b31448c1f4cae6ab8469837fd8d418226a923f9009832fe5bb54fb49a8d9"
 [[files]]
 file = "resources/logo.gif"
 hash = "8d90d57ddd301f98b448b07d97fbbc64c5a7ccc9f5e464978379b871ed529d0a"
+
+[[files]]
+file = "resources/logo2.png"
+hash = "f1bb922f32bc17235018d4f5099999edc032df522d1797af39990237a64668dc"
 
 [[files]]
 file = "resources/menu.ogg"

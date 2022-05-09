@@ -1,13 +1,13 @@
 name = "Applied Mekanistics"
-filename = "Applied-Mekanistics-1.1.4-beta.jar"
+filename = "Applied-Mekanistics-1.1.5-beta.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3770/541/Applied-Mekanistics-1.1.4-beta.jar"
+url = "https://edge.forgecdn.net/files/3778/47/Applied-Mekanistics-1.1.5-beta.jar"
 hash-format = "sha1"
-hash = "93c63847008684cb6343194188e430856bab8347"
+hash = "76aaf0ff70383ce6c33922e949497d6d4cdef25b"
 
 [update]
 [update.curseforge]
-file-id = 3770541
+file-id = 3778047
 project-id = 574300

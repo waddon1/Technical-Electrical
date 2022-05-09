@@ -1,13 +1,13 @@
 name = "Simple Discord RPC [Forge/Fabric]"
-filename = "simple-rpc-1.18.2-3.0.0.jar"
+filename = "simple-rpc-1.18.2-3.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3758/265/simple-rpc-1.18.2-3.0.0.jar"
+url = "https://edge.forgecdn.net/files/3785/422/simple-rpc-1.18.2-3.0.1.jar"
 hash-format = "sha1"
-hash = "eeea19106da51751f14032366ba962d2115b647e"
+hash = "10a8cc5e1ea98a547763605ec1f471fce2a7dbc0"
 
 [update]
 [update.curseforge]
-file-id = 3758265
+file-id = 3785422
 project-id = 411816

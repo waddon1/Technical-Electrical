@@ -1,13 +1,13 @@
 name = "Assembly Lines"
-filename = "Assembly Line-1.18.2-0.4.2-2.jar"
+filename = "Assembly Line-1.18.2-0.4.2-3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3768/796/Assembly%20Line-1.18.2-0.4.2-2.jar"
+url = "https://edge.forgecdn.net/files/3779/70/Assembly%20Line-1.18.2-0.4.2-3.jar"
 hash-format = "sha1"
-hash = "3ed22e53fd344c2a7c35aae8dffc16488db319cc"
+hash = "5e5953740f27180920c1c1b9e8f1804997ef3bb4"
 
 [update]
 [update.curseforge]
-file-id = 3768796
+file-id = 3779070
 project-id = 404360

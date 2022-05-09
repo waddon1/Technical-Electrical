@@ -1,13 +1,13 @@
 name = "Apotheosis"
-filename = "Apotheosis-1.18.2-5.3.4.jar"
+filename = "Apotheosis-1.18.2-5.3.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3717/791/Apotheosis-1.18.2-5.3.4.jar"
+url = "https://edge.forgecdn.net/files/3781/524/Apotheosis-1.18.2-5.3.5.jar"
 hash-format = "sha1"
-hash = "c48f9dfab0f6534f257fd09f26faa78a343de3c0"
+hash = "ffa04a16c98d6c651496cb8c8d4a79b7dc197a75"
 
 [update]
 [update.curseforge]
-file-id = 3717791
+file-id = 3781524
 project-id = 313970
