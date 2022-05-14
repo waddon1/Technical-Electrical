@@ -1,13 +1,13 @@
 name = "Malum"
-filename = "malum-1.18.2-1.3.5.jar"
+filename = "malum-1.18.2-1.3.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3768/401/malum-1.18.2-1.3.5.jar"
+url = "https://edge.forgecdn.net/files/3788/643/malum-1.18.2-1.3.6.jar"
 hash-format = "sha1"
-hash = "a4f349d142b356b7c9755bec88b7bc6db9224d85"
+hash = "4fb7ab0c666e6f4e239e1931a1c54e7c1a067658"
 
 [update]
 [update.curseforge]
-file-id = 3768401
+file-id = 3788643
 project-id = 484064

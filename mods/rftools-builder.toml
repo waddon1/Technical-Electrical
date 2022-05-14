@@ -1,13 +1,13 @@
 name = "RFTools Builder"
-filename = "rftoolsbuilder-1.18-4.0.9.jar"
+filename = "rftoolsbuilder-1.18-4.0.10.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3752/154/rftoolsbuilder-1.18-4.0.9.jar"
+url = "https://edge.forgecdn.net/files/3786/801/rftoolsbuilder-1.18-4.0.10.jar"
 hash-format = "sha1"
-hash = "cc993e645b65406485ab7124b6884c103cb2f734"
+hash = "17a1c404378c550181d04b65cd023f559aba4d56"
 
 [update]
 [update.curseforge]
-file-id = 3752154
+file-id = 3786801
 project-id = 347706
