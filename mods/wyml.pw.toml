@@ -1,0 +1,13 @@
+name = "WYML"
+filename = "wyml-forge-1.18.2-1.1.3a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66a9f74a8c2fa2b6e2905a58a9ebf6b482a01196"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3788038
+project-id = 518076

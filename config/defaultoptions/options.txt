@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/Faithful 64x beta 4.zip","file/Fancy, GUI Overhaul v0.1.0.zip"]
-incompatibleResourcePacks:["quark:emote_resources","file/Fancy, GUI Overhaul v0.1.0.zip"]
+resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/Faithful 64x beta 4.zip","file/Fancy, GUI Overhaul (Dark) v0.1.1.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/Fancy, GUI Overhaul (Dark) v0.1.1.zip"]
 lastServer:
 lang:en_us
 soundDevice:

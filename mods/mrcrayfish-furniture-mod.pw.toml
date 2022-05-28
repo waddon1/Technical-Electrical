@@ -1,0 +1,13 @@
+name = "MrCrayfish's Furniture Mod"
+filename = "cfm-7.0.0-pre29-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e0196019192f7853180efdf90e2a562734125df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683524
+project-id = 55438

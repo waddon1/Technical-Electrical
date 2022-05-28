@@ -1,0 +1,13 @@
+name = "Fancy: GUI Overhaul"
+filename = "Fancy, GUI Overhaul (Dark) v0.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c036b8664100a7c28d1ee940829f1af5d30e0e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3790545
+project-id = 620903

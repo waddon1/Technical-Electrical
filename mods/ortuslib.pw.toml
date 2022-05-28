@@ -1,0 +1,13 @@
+name = "OrtusLib"
+filename = "ortus-1.18.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c1a8c7beea769b38c088f4fbb92c105bfdd55d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3768197
+project-id = 616457

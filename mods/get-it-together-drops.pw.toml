@@ -1,0 +1,13 @@
+name = "Get It Together, Drops!"
+filename = "getittogetherdrops-1.18.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be402042e81d92146742f06b2678a79ed65c04d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683767
+project-id = 411045
