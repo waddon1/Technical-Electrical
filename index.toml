@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331"
+
+[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "7bf81e79c36e1ff5ceea435f5493000f27821b1c72329ea4298955609c6591c8"
 
@@ -771,8 +775,13 @@ hash = "9ee031cb5f49dbcb7ebaf287cc26522423aed3575be155e924e791cc05881f30"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental-elemental-spell-foci.pw.toml"
+hash = "7a6a7bbf64763e380815c1f25d5a4b7af32e41367a2594495aac0497e5132bb7"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "24f31ae6e2b64984461a0e651db2875331ff047f4402b6fa403131d7e68c9eea"
+hash = "a71a8b98e324f1f451e5b49b7ad0809eb269df1164bf514d1f90a77b510fe49c"
 metafile = true
 
 [[files]]
@@ -782,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/audio-extension-for-fancymenu-forge.pw.toml"
-hash = "e59a6bb7704610952e7b96ed46ad92534dc3dd51c99a053c1077cf59a269134e"
+hash = "2fb507da5f954d0c318f3ab3dfca288b6ac0c120919b241af68ad1f29716743c"
 metafile = true
 
 [[files]]
@@ -827,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "a7e9a9ce546f989b095812a0fbc4b878ff94213a39c4d6e7d06ae06224e3ea61"
+hash = "9ac16b020a87d062bbeefa2e42067e60d8c071c7337bf717438a859b58d96e8f"
 metafile = true
 
 [[files]]
@@ -907,12 +916,12 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "50b04be56956866a37a25c83b56cfe058d49f5ac9883efbcb82dd21970b9e96c"
+hash = "b5ea33c8720fd2859e240894422c85ce4598757ba1fb0d0038a9f6cb6f4e7038"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"
-hash = "b1f5de26053245b138de03c4d78054466bd7adcbbf4d87b5e4d985fa972c361d"
+hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
 metafile = true
 
 [[files]]
@@ -937,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
-hash = "3b655ef567d1fef2d7e46f2baf19cfd3e23a8d4750c3eda7bb03c856637007ca"
+hash = "b8bcc474fbec53443937c839c1dbf654c01885b071f90c609d550c1ff2bd9bb5"
 metafile = true
 
 [[files]]
@@ -952,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "8704f18b6767def0df1c2bd1a9985d2eb3ac5cbed1c8420ed8cf042135d4b3e4"
+hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
 metafile = true
 
 [[files]]
@@ -986,8 +995,18 @@ hash = "0de6372b393860455e476febfba42357c4386fc78bcd3ac747e88a60f8dbc30b"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "3546d7047d24d2358cfaf52b0d02008076cd22e4467d1f8faab96cde72492c58"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d98fbbf29291efd1de4680f0e4b7f5be69c7bf192686ac77df1f7ef0a710646e"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
-hash = "9824578658eea88fb2d2159a042e8cc99f947288b66cb0e4bb89470449d505ee"
+hash = "60f50a9dad223d2823067b366e1c072e61342dc82734885da5572d0b5785f4a5"
 metafile = true
 
 [[files]]
@@ -1017,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/luggage.pw.toml"
-hash = "a10a12845c9c163944ef21e89a931bf839a7908553969611fe6f7598797334ea"
+hash = "9220037f9d2fed152a74b2030ab33f9b5d1bf3e810ddc2ff32732dc1f2647657"
 metafile = true
 
 [[files]]
@@ -1027,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "e1673e6e60a9f4d9dd2952ff2821106d62ca05bbd773e146968ce88102c07cf9"
+hash = "4be6bd0088f9f3aa6dd879733d136436c7396f66868a51f1d6dad6da4a04f481"
 metafile = true
 
 [[files]]
@@ -1042,27 +1061,27 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "3cc3a7a70e49ab577986a3d061afb9929acde59f3bef3314bc0357893986beb3"
+hash = "91171e5d72c73abc52a11827527ca1fc1d9e56dda0a6650d0a865a007a1bdcb5"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "031eed32bc6a34cb1a01de1d91e52dbff7602da994ba8bf1ed2f4907a7746caa"
+hash = "5e8770363b7bdaa319ece322683bd82c84eb06ecc30b75b24264998840120f54"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "d45cb71d02a44782ec431c3b8eec4b8a25dd3afb5ee08da1b0098fb0e8abf3af"
+hash = "7cb07e0057fd26a99df0cb766365f1abc763650c3b588cd9cf0131abf4803081"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "fba4ede7cde0e66610fd5e193dbc2f97b982f34303cfcc0f1cc15dcc3c9f6894"
+hash = "7d41f1ddd01e889d2a0113d3c00ce74cca90c8f89682d07f4fcd0cbd3e5b8fe2"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "b9df61cd393c9c7107f096edc33b55bc2e0ed05325a60ca1e47dbc986b271d0a"
+hash = "935d2791de02b4e5a29104673ac780566bd9547a6d8ff33b690788b3638d6687"
 metafile = true
 
 [[files]]
@@ -1117,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "dc5a304da94cc1bf76fbc870034982629e28fefa31a5d048e8876b0dbf62fef4"
+hash = "b6446da3f2a4385aa97982b0901a3e077c7543b654ceeb088f8d7343f3a2286f"
 metafile = true
 
 [[files]]
@@ -1132,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "a43f7eb71920659435744ce9ebaf2a2196f7b8332e206492ff2086da0cf0cea1"
+hash = "5ccff87787d6ed5673effe9b8d1cb25c2089d6455231724000f5901a8cacb69e"
 metafile = true
 
 [[files]]
@@ -1182,17 +1201,17 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "f1e8a995ab7ad42c59d1fded84ce2a174eb62d0bf4b61c8f96dd014528d35c0d"
+hash = "82d40249ec1f5868b156f4f3708fa4d59208ff5781bef9d3a6148eeed6f8ae80"
 metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "aa93c4fb225cab8b1eacd4d16fa5929dd1c7b3f2043c15c51b04ef93144c85d6"
+hash = "891d92de59bb908bc532c2056e35703d0f1edc8adb4a92a1b46e95bbdc793118"
 metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "c2fb82140110907c602e16141187d78c0f60976626dc3cead9ec3c8b3a43dd70"
+hash = "3abe5374376e693e1430fb1fce1e4de4394ae3aba0cdfca5487e182973a146cc"
 metafile = true
 
 [[files]]
@@ -1207,7 +1226,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "14c6bb4878343e3aec6d351c20d6354a8c462dcef933ebe88a01c4e9ab257fa4"
+hash = "ff409d0b2b62eb669282869e3ce7c297cf00bc8ff0113106d66713198b13cde3"
 metafile = true
 
 [[files]]
@@ -1292,7 +1311,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "15eecc7aecaf35c1adb2980a2018bb7c74c4f4ee084d5dff52c7f86895f48bde"
+hash = "f2357a36aeaddc5f0416afe43562e1b8bc2dd002e9671d23e778b9a590c84954"
 metafile = true
 
 [[files]]
@@ -1332,7 +1351,7 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "39903035d647a4a48f7eca0954fcee875ed3aa942a0e8ec6859eea2cc7c7a083"
+hash = "69f5b2fe3679e0ad0bf08761a31ae5940469e8bc058e1ec9dc5f0b06c30bacd7"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Mahou Tsukai"
-filename = "mahoutsukai-1.18.2-v1.34.15.jar"
+filename = "mahoutsukai-1.18.2-v1.34.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa7b0dc5e15129addb480e31c3a8ba443bc1648d"
+hash = "4c0db31daa4e13192e5c5789656fcf995d269969"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3793418
+file-id = 3808854
 project-id = 342543
