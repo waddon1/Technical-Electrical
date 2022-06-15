@@ -1,13 +1,13 @@
 
 [world_gen]
 	#Config to toggle the generation of arms in snow biomes
-	arms = true
+	arms = false
 	#Configure whether the mods ores spawn. This MAY require a restart when changed.
-	genOres = true
+	genOres = false
 	#Configure whether Graveyard Structures spawn. This will require a restart when changed.
-	genGraveyard = true
+	genGraveyard = false
 	#Configure whether Catacombs Structures spawn. This will require a restart when changed.
-	genCatacombs = true
+	genCatacombs = false
 
 [spawn]
 	#The minimum amount of 'Weeping Angels' that spawn at each spawn attempt
@@ -52,7 +52,7 @@
 	#Range: 0.1 ~ 1.7976931348623157E308
 	angelMovementSpeed = 0.2
 	#If this is enabled, angels will break blocks (If gamerules allow) - !!!! BLOCK BLACKLISTING: You may be looking for a config option in order to stop certain blocks from being broken. You can do this with a datapack using weeping_angels:angel_proof
-	blockBreaking = true
+	blockBreaking = false
 	#The maximum range a angel can break blocks within
 	#Range: 1 ~ 120
 	blockBreakRange = 15

@@ -1,13 +1,13 @@
 name = "Patchouli"
-filename = "Patchouli-1.18.2-69.jar"
+filename = "Patchouli-1.18.2-70.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dfe2a6fb91d489b49733e52694836a8fc5c0c2fb"
+hash = "bb2985451d1b267205794b623fbdd2311e058d2d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3809917
+file-id = 3831438
 project-id = 306770

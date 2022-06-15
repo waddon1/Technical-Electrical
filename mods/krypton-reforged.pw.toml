@@ -1,0 +1,13 @@
+name = "Krypton Reforged"
+filename = "krypton-0.1.10-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "410cd2bff75d4a8388b71d19953dbccea86c6af9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3819215
+project-id = 549394

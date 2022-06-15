@@ -1,13 +1,13 @@
 name = "Technical Electrical Final Frontiers [Forge] - 1.18.2"
 author = "Waddon1"
-version = "1.16.1"
+version = "1.17.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e48fb83f4274611b1543ea243d84d5620ca018c2089bc1375254e185ea678d92"
+hash = "47faae007dca73f7a8d4754fe3fa0b8238197a06bad3e7891adbc5c73244330d"
 
 [versions]
-forge = "40.1.31"
+forge = "40.1.51"
 minecraft = "1.18.2"

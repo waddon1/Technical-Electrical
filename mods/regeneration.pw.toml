@@ -1,0 +1,13 @@
+name = "Doctor Who - Regeneration"
+filename = "regen-40.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4816a34effe39ca4d36f3280f2b0f3eed7135ffd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3829316
+project-id = 274275
