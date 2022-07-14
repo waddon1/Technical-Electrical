@@ -1,13 +1,13 @@
 name = "Occultism"
-filename = "occultism-1.18.2-1.34.0.jar"
+filename = "occultism-1.18.2-1.36.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "932f0b9ee872493bb05570b86efdcd407d6f5828"
+hash = "8b5041e42850facec8a90d99ebaaef95670a40ac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3809335
+file-id = 3863823
 project-id = 361026

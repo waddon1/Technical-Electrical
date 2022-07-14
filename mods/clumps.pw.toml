@@ -1,13 +1,13 @@
 name = "Clumps"
-filename = "Clumps-forge-1.18.2-8.0.0+8.jar"
+filename = "Clumps-forge-1.18.2-8.0.0+10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "09f702445fb8ec8954318747c282ca84c093a63b"
+hash = "01df8448eb2b01ff64457917d95ac40f8a18012d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3757581
+file-id = 3833879
 project-id = 256717

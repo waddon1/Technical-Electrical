@@ -15,12 +15,12 @@ customization {
 }
 
 customization {
-  keepaspectratio = false
+  keepaspectratio = true
   action = backgroundoptions
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -53
   action = movebutton
@@ -28,14 +28,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   width = 100
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   seconds = 0.4
   onlyfirsttime = false
   fadein = true
@@ -44,7 +44,7 @@ customization {
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = bottom-left
   x = 5
   action = movebutton
@@ -52,7 +52,7 @@ customization {
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   seconds = 0.2
   onlyfirsttime = false
   fadein = true
@@ -78,7 +78,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
   x = -53
   action = movebutton
@@ -86,20 +86,20 @@ customization {
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   width = 100
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttonlabel
   value = Options
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   seconds = 0.6
   onlyfirsttime = false
   fadein = true
@@ -108,7 +108,7 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
   x = -53
   action = movebutton
@@ -116,14 +116,14 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   width = 100
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=502382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   seconds = 1.4
   onlyfirsttime = false
   fadein = true
@@ -132,7 +132,7 @@ customization {
 }
 
 customization {
-  identifier = %id=376382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = bottom-left
   x = 30
   action = movebutton
@@ -140,7 +140,7 @@ customization {
 }
 
 customization {
-  identifier = %id=376382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   seconds = 0.4
   onlyfirsttime = false
   fadein = true
@@ -149,7 +149,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400298%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = -53
   action = movebutton
@@ -157,14 +157,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400298%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   width = 100
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=400298%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   seconds = 0.2
   onlyfirsttime = false
   fadein = true
@@ -173,7 +173,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = mid-centered
   x = -53
   action = movebutton
@@ -181,14 +181,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   width = 100
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   seconds = 1.2
   onlyfirsttime = false
   fadein = true
@@ -197,7 +197,7 @@ customization {
 }
 
 customization {
-  identifier = %id=502346%
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
 
@@ -216,6 +216,74 @@ customization {
   fadein = true
   fadeinspeed = 1.0
   action = hidebuttonfor
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 218
+  width = 204
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 801b4f82-8abc-44fa-ab49-abde23bbfbd41656765188073
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 86
+  action = deep_customization_element:title_screen_branding
+  actionid = f57957ef-bbb9-42a8-891f-948fb874a9f51656765188075
+  y = 358
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 464
+  width = 175
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 7ead9df2-ad5b-49e5-9ebf-8ff74a6c6a231656765188075
+  y = 380
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = c15b8c5f-6901-4374-8872-f94255d190561656765188075
+  y = 200
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 42a98397-5440-4057-bff9-920d82b4c5aa1656765188075
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 1c8e9341-5635-41f7-967f-6c756e6313b51656765188076
+  y = 0
+  height = 30
 }
 
 customization {
@@ -244,11 +312,11 @@ customization {
   path = resources/logo.gif
   fadein = true
   fadeinspeed = 1.0
-  x = -138
+  x = -137
   width = 270
   action = addtexture
   actionid = a1e115af-b7cd-4ed3-9b05-a364049009b21649864730124
-  y = 43
+  y = 55
   delayappearance = true
   delayappearanceeverytime = true
   height = 66
@@ -317,7 +385,7 @@ customization {
   y = -18
   scale = 1.0
   refresh = false
-  text = Hello %playername%
+  text = #1 Most Downloaded Forge Modpack on Modrinth!
   bouncing = true
 }
 

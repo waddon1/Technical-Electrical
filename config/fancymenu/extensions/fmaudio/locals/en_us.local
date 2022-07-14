@@ -46,8 +46,8 @@ fancymenu.fmaudio.config.categories.world = World
 fancymenu.fmaudio.config.stop_world_music_in_menu = Stop Music In MP Menus
 fancymenu.fmaudio.config.stop_world_music_in_menu.desc = Only for Multiplayer worlds!%n%%n%If the world music should%n%stop in menus that normally%n%stop it, even if it's a%n%multiplayer world.
 
-
-
+fancymenu.fmaudio.config.only_play_out_of_world = Only Play Out Of World
+fancymenu.fmaudio.config.only_play_out_of_world.desc = If audios should only play when%n%you're not in a world or%n%on a server.
 
 
 

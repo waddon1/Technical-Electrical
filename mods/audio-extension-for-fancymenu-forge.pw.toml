@@ -1,13 +1,13 @@
 name = "Audio Extension for FancyMenu [Forge]"
-filename = "fm_audio_extension_forge_1.1.0_MC_1.18-1.18.2.jar"
+filename = "fm_audio_extension_forge_1.1.1_MC_1.18-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "04e4415e5e969b8a0587262706bd55dddd0f5a45"
+hash = "bbe1b8bb4cba5514715f7fa072d64fe809e696bd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3825476
+file-id = 3854665
 project-id = 613067
