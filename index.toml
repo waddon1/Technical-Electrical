@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "236721d4adf5cdbcdaafac07b7aeb1b24fa9e88dcf06d95b8ec675f576c23bb0"
+hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "b4a7e7c996cfcbb9f02b0a82413993d6e15911852ba636f6e668daa6c9c4a054"
+hash = "ad1cfb69a73667b3e24e2afffba623c9b03fbabd8d4b2601e5c8a1363dfe5072"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "13c63cce628f6ddb2a27c94f2cc58da761ce93f0cfe5e37d82dc009854b608a3"
+hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
@@ -902,12 +902,12 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "80770ac24587025c5e62946c4daed9671fe2eda021a9dc07ad49fae335ca0098"
+hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
 metafile = true
 
 [[files]]
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "99af54650948f97593d8749ed83bce8fbbc15557bb14d359b1507f2c3a6a6cad"
+hash = "6ac1dd00cd4c3010b7542fb5b427169b9d87fecb1250d6cda329b3ada04d68c8"
 metafile = true
 
 [[files]]
@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "97a89b74d1072263842f1067c5f33c9510d321f71082faec40953c1ca0c041a4"
+hash = "4b15d78af394e83e5bc6cdd6dd9123b96f9e1f70d727e101db4558ae9f7c2e58"
 metafile = true
 
 [[files]]
@@ -1002,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
 
 [[files]]
@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "b391817d633f226342bde3118783d52e3fee604f0a94efb94c7d0986bf037c4c"
+hash = "4ad67ed05a5244c0c027a08c6147076663fd36a1952a9141b4854d92cb6a2f1e"
 metafile = true
 
 [[files]]
@@ -1042,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "1afe8713c2f7b4fe8eb2bc2fddbb98688afe51709dbb52a24569d79c2745054e"
+hash = "36e44f8cff135b54b107bc943e796a1e0e874af4848597a2f81d632e6989191e"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "ba2d212ca4faa681f718a4acc4b002a8a0aa238250522acaaf522e685620c4bb"
+hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
@@ -1077,12 +1077,12 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "186cb1642db76bc34f7bfc2fde6b8e0f53cb64d01d30410bf4ca4cbb5b6bd06e"
+hash = "fe906b3f4de4fe6c7313609f5c7cc44e733cd0e82cf74b6dbce52440bc7beccc"
 metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "b5a7a4004c87453d4f2a0fa2ef12e82f92760fff41f02b811140c6af3c707468"
+hash = "8408aded89e94d5fca8281685fca5942a8a068adc2a85b2ff8ac04fab3db4c7d"
 metafile = true
 
 [[files]]
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "b7646d495f20dd748e00515d7baceb6d68fc00f7c1b25bfd1f4b9812075ae133"
+hash = "87b5b3f6c3f4b96884e43f881ed8c54c3de8ba422c6cdd5de0e0a74082b54ed4"
 metafile = true
 
 [[files]]
@@ -1162,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "ae3ec2f44988df51071386ce4d3a0d4357391bd6ac6be058f201ebf3407d0ba3"
+hash = "b6d7f45860db011709514ab1009c8bf7a14756f04515e2786db205e748298402"
 metafile = true
 
 [[files]]
@@ -1187,7 +1187,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "f3f1aefa6bd088d2bd817cd7601000d5737b211ab87203d10419f50a1c1eafab"
+hash = "496694aadeb655880084d7299582590227ac9a22354d1caedd616743f43a04b6"
 metafile = true
 
 [[files]]
@@ -1202,7 +1202,7 @@ metafile = true
 
 [[files]]
 file = "mods/prefab.pw.toml"
-hash = "8b298bcb3aa59f40a1c6906aaed3d43bd6549ce1635e2638d38a4bf7ab0f2001"
+hash = "c298401510b9070acfef022bf43cfa3aa7ea77c8cae6eda9a68f32c9ed0fbe7b"
 metafile = true
 
 [[files]]
@@ -1247,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.pw.toml"
-hash = "02c1874d3f763289022e9f6e4bbe3515296be8ab091839bcb06ae9ebf08ce3db"
+hash = "d971519f4bb477e38d614df5fc1f4c1ca1b0d108231727c2812496248c98b821"
 metafile = true
 
 [[files]]
@@ -1262,12 +1262,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "dee0e0a32763debb6405afeb8dbea418befe1a4791ae2f5f0aca53ce38c36e85"
+hash = "ade57ee091aeadeddffb8997479dac8ee38daf49d324e489cac07844fc4925b2"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "a765e2532653e60cb187460774548380aeb726ecfd11108648bd21910e95a7fd"
+hash = "c5e5b18c293c67a73a61dd5df46e8edc691ad7c53cbe4488cb99889c449719c1"
 metafile = true
 
 [[files]]
@@ -1307,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
-hash = "88a1d22c971657c0da41a1558cebf78622fa527c67e40e9f15325cde2e848a8c"
+hash = "8fdad4120ab5b751d18c37a218b6e358bd532c52b2b0c76446e52e7a3d9e7815"
 metafile = true
 
 [[files]]
@@ -1332,17 +1332,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "30df5961fed00ad4fbb03336fe124395fb94f2b02bd01efd44e535cf7fb8117d"
+hash = "5d299b509a149662d562bd6837e9fba887b1f45b4b22c0b37c769c55aec05d25"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f23e954f3308b80fc3c3a1897a8df04825192b44b677b59ced20b9f135cf4c0e"
+hash = "962c4dc2f19f8dd51b5f1e1bc11c433babd2fa232e49b77ae51a70693673d0a5"
 metafile = true
 
 [[files]]
 file = "mods/xnet.pw.toml"
-hash = "49a470a4490012a5458d1198be9e69368c1dbdce38e4b55c20203e3afde2e6d5"
+hash = "8c3684aa0feb0f1703ce30dc263b1b81831de7e26fc9964ef789cd8529efb2e8"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Immersive Engineering"
-filename = "ImmersiveEngineering-1.18.2-8.1.0-150.jar"
+filename = "ImmersiveEngineering-1.18.2-8.2.0-151.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8e00a2eb8b5081f49203d1130d97fcea0ad6ba20"
+hash = "6427be044530ab66035d3e67cab6660141ef2c92"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3901176
+file-id = 3934812
 project-id = 231951
