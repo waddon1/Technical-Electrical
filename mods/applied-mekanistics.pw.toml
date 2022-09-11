@@ -1,13 +1,13 @@
 name = "Applied Mekanistics"
-filename = "Applied-Mekanistics-1.2.1.jar"
+filename = "Applied-Mekanistics-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "feb8e22fdc82d0a6f8abd4e11bf7f23050dbb264"
+hash = "473e32ee3937706b8afbb9260b7a5fb55cc6f083"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3847653
+file-id = 3968835
 project-id = 574300

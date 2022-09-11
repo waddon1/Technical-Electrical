@@ -1,13 +1,13 @@
 name = "Industrial Foregoing"
-filename = "industrial-foregoing-1.18.2-3.3.1.4-8.jar"
+filename = "industrial-foregoing-1.18.2-3.3.1.5-9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b7e04389aaa748784125ed29acb763c0b89f7132"
+hash = "b3067e21645657507e3a1ee9ccac2cf5c4d1a355"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3848558
+file-id = 3957263
 project-id = 266515
