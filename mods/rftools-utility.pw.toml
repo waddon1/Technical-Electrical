@@ -1,13 +1,13 @@
 name = "RFTools Utility"
-filename = "rftoolsutility-1.18-4.0.17.jar"
+filename = "rftoolsutility-1.19-5.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b5a50bff7ccba4319b583249d2d606f343dc3f18"
+hash = "cd1f797cd76809e7b3514410ca3b5c4133680ddd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3953821
+file-id = 3994828
 project-id = 342466

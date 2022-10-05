@@ -2,7 +2,7 @@
 #General Config Section
 [general]
 	#The Client ID of the Discord App to use
-	clientID = 964188036516696124
+	clientID = 1009228792658673746
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
@@ -19,13 +19,13 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "TE: Final Frontiers is loading"
+	description = "TE: Mechanistic Mayhem is loading"
 	#The second line of text under the app name
 	state = "Game Starting..."
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Technical Electrical %mcver%"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
@@ -44,7 +44,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Technical Electrical %mcver%"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
@@ -120,7 +120,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = "mclogonew"
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "It's Minecraft %mcver%, but modded"
+	largeImageText = "It's Technical Electrical %mcver%"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = "mclogo"
 	#The text that gets displayed when the small image is hovered
@@ -131,7 +131,7 @@
 #Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
-	description = "Playing Technical Electrical: Final Frontiers"
+	description = "Playing Technical Electrical: Mechanistic Mayhem"
 	#The second line of text under the app name
 	state = "%player% is having fun"
 	#The Asset ID of the image to display as the large image

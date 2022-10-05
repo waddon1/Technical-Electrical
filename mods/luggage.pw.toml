@@ -1,13 +1,13 @@
 name = "Luggage"
-filename = "luggage-1.3.2.jar"
+filename = "luggage-1.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "991064bb256fcb66f3615db85f0f2117f7b8117d"
+hash = "e554063a05486484ac6b301058fe427ce4a33b0c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3844661
+file-id = 3993064
 project-id = 594709

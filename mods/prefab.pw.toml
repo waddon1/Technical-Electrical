@@ -1,13 +1,13 @@
 name = "Prefab"
-filename = "prefab-1.8.2.3.jar"
+filename = "prefab-1.9.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "261474f4d90188f3d1e4f8b1b076a34d4d43fd1a"
+hash = "f6da2a59775c2b56d9cbdfdb49ab7d718ac41975"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3927796
+file-id = 3981259
 project-id = 246550

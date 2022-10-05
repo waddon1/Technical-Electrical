@@ -1,13 +1,13 @@
 name = "GoProne"
-filename = "goprone-1.18.2-1.7.0.jar"
+filename = "goprone-1.19-2.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0f2f7866f4eed8b576b91299e64d0fc4f471bf4b"
+hash = "7a3caeac1efac88130e4ef730e9f6dbe333641f5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3681801
+file-id = 3884694
 project-id = 327968

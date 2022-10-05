@@ -5,6 +5,7 @@ allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
+radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:true
 minimap:true
@@ -33,7 +34,7 @@ blockColours:0
 lighting:true
 dotsStyle:0
 dotNameScale:1.0
-compassOverWaypoints:false
+compassOverEverything:true
 showBiome:false
 showFlowers:true
 keepWaypointNames:true
@@ -95,9 +96,19 @@ partialYTeleportation:true
 deleteReachedDeathpoints:true
 hideMinimapUnderScreen:true
 hideMinimapUnderF3:true
-interface:dummy:0:0:true:false:false:false
+manualCaveModeStartAuto:true
+manualCaveModeStart:-1
+chunkGridLineWidth:1
+temporaryWaypointsGlobal:true
+keepUnlockedWhenEnlarged:false
+enlargedMinimapAToggle:false
+displayPacPlayers:true
+displayClaims:true
+displayCurrentClaim:true
+claimsOpacity:80
+interface:dummy:0:50:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:false:false
+interface:gui.xaero_minimap:0:0:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints

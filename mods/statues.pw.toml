@@ -1,13 +1,13 @@
 name = "Statues"
-filename = "Statues-1.18.2-0.1.8.1.jar"
+filename = "Statues-1.19.2-0.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8a61b380414e793c5416fe314b7e0bb36598108a"
+hash = "a749cf230abadc4fc6c490f94bc9ed42f564d9f6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3696463
+file-id = 4009786
 project-id = 253172

@@ -1,13 +1,13 @@
-name = "Doctor Who - Regeneration"
-filename = "regen-40.0.1.jar"
+name = "Doctor Who - Regeneration (Forge/Fabric)"
+filename = "regeneration-41.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4816a34effe39ca4d36f3280f2b0f3eed7135ffd"
+hash = "5afb36ef8d50f875b389915309f277f50909b350"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3829316
+file-id = 4011069
 project-id = 274275

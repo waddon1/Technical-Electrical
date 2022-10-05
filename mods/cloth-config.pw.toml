@@ -1,13 +1,13 @@
 name = "Cloth Config API (Fabric/Forge)"
-filename = "cloth-config-6.4.90-forge.jar"
+filename = "cloth-config-8.2.88-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "75e5461d9adef754ed77352b520ce44e7bd1ef5b"
+hash = "fbd645755abc0dbe5eb1adeb5e649835294a769f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3972426
+file-id = 3972423
 project-id = 348521
