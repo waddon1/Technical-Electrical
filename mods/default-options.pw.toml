@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-forge-1.19-15.0.0.jar"
-side = "both"
+filename = "defaultoptions-forge-1.19-15.0.1.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/Et9oI0rT/defaultoptions-forge-1.19-15.0.1.jar"
 hash-format = "sha1"
-hash = "b1b35c9b569721be8d106f3327da9127ca2b05de"
-mode = "metadata:curseforge"
+hash = "8c29381114dfab0cb1918ecc4b8ae1bb0c9fa373"
 
 [update]
-[update.curseforge]
-file-id = 3832590
-project-id = 232131
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "Et9oI0rT"

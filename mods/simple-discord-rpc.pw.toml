@@ -1,13 +1,13 @@
 name = "Simple Discord RPC [Forge/Fabric/Quilt]"
-filename = "simple-rpc-1.19-3.1.1.jar"
+filename = "simple-rpc-forge-1.19.x-3.2.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/vdVrFfh5/simple-rpc-forge-1.19.x-3.2.2.jar"
 hash-format = "sha1"
-hash = "0596a329a3537aa51d6154226ad9faf59def3614"
-mode = "metadata:curseforge"
+hash = "34cd7399175a47154d3318429bf108468d2471de"
 
 [update]
-[update.curseforge]
-file-id = 3899283
-project-id = 411816
+[update.modrinth]
+mod-id = "ObXSoyrn"
+version = "vdVrFfh5"

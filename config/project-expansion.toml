@@ -1,0 +1,32 @@
+#Range: 1 ~ 200
+tickDelay = 20
+formatEMC = true
+fullNumberNames = true
+emcDisplay = false
+notifyCommandChanges = true
+notifyKnowledgeBookGains = true
+limitEmcLinkVendor = true
+enableFluidEfficiency = true
+#Range: > 1
+transmutationInterfaceItemCount = 2147483647
+#Range: 0.1 ~ 50.0
+collectorMultiplier = 1.0
+#Range: 0.1 ~ 50.0
+emcLinkItemLimitMultiplier = 1.0
+#Range: 0.1 ~ 50.0
+emcLinkFluidLimitMultiplier = 1.0
+#Range: 0.1 ~ 50.0
+emcLinkEMCLimitMultiplier = 1.0
+#Range: 0.1 ~ 50.0
+powerflowerMultiplier = 1.0
+#Range: 0.1 ~ 50.0
+relayBonusMultiplier = 1.0
+#Range: 0.1 ~ 50.0
+relayTransferMultiplier = 1.0
+#Range: > 1
+infiniteFuelCost = 128
+#Range: > 1
+infiniteFuelBurnTime = 1600
+#Range: > 1
+infiniteSteakCost = 64
+

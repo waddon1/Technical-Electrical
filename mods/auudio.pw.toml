@@ -1,0 +1,13 @@
+name = "Auudio"
+filename = "auudio_forge_1.0.3_MC_1.19-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FCr31KmZ/versions/1SDnHZVA/auudio_forge_1.0.3_MC_1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "70fc746833ce27218d0d382954ae9baed1bdfd98"
+
+[update]
+[update.modrinth]
+mod-id = "FCr31KmZ"
+version = "1SDnHZVA"

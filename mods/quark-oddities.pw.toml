@@ -3,11 +3,11 @@ filename = "QuarkOddities-1.18.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/qeEEslrN/versions/gvWA7HWA/QuarkOddities-1.18.jar"
 hash-format = "sha1"
 hash = "2d166f4d115360d6132a7bc277f4c6d47bb311ec"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3575623
-project-id = 301051
+[update.modrinth]
+mod-id = "qeEEslrN"
+version = "gvWA7HWA"

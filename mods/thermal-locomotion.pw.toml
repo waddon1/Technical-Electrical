@@ -1,0 +1,13 @@
+name = "Thermal Locomotion"
+filename = "thermal_locomotion-1.19.2-10.2.0.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L3eFR8i3/versions/41TFppDF/thermal_locomotion-1.19.2-10.2.0.14.jar"
+hash-format = "sha1"
+hash = "e48f1d2a1725ef423a3f8a4fd42c36cf6a588a82"
+
+[update]
+[update.modrinth]
+mod-id = "L3eFR8i3"
+version = "41TFppDF"

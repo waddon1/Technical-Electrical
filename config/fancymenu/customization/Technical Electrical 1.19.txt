@@ -3,9 +3,20 @@ type = menu
 customization-meta {
   identifier = net.minecraft.client.gui.screens.TitleScreen
   randomgroup = 1
-  renderorder = foreground
+  renderorder = background
   randommode = false
   randomonlyfirsttime = false
+}
+
+customization {
+  name = temm
+  action = setbackgroundpanorama
+}
+
+customization {
+  baseheight = 800
+  action = autoscale
+  basewidth = 1280
 }
 
 customization {
@@ -15,10 +26,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  orientation = mid-centered
-  x = -106
+  orientation = mid-left
+  x = 82
   action = movebutton
-  y = -22
+  y = -23
 }
 
 customization {
@@ -26,6 +37,21 @@ customization {
   width = 100
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/transparentbutton.png
+  backgroundnormal = resources/transparentbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = sethoverlabel
+  label = [Multiplayer]
 }
 
 customization {
@@ -46,37 +72,19 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  seconds = 0.8
-  onlyfirsttime = false
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
   identifier = %id=376322%
   orientation = bottom-right
-  x = -100
+  x = -75
   action = movebutton
   y = -36
 }
 
 customization {
-  identifier = %id=376322%
-  seconds = 0.4
-  onlyfirsttime = false
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  orientation = mid-centered
-  x = 4
+  orientation = mid-left
+  x = 82
   action = movebutton
-  y = -50
+  y = 36
 }
 
 customization {
@@ -94,6 +102,21 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/transparentbutton.png
+  backgroundnormal = resources/transparentbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = sethoverlabel
+  label = [Options]
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   seconds = 1.0
   onlyfirsttime = false
   fadein = true
@@ -103,10 +126,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-centered
-  x = 4
+  orientation = mid-left
+  x = 82
   action = movebutton
-  y = 6
+  y = 97
 }
 
 customization {
@@ -114,6 +137,21 @@ customization {
   width = 100
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/transparentbutton.png
+  backgroundnormal = resources/transparentbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = sethoverlabel
+  label = [Quit Game]
 }
 
 customization {
@@ -134,20 +172,11 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  seconds = 1.0
-  onlyfirsttime = false
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -106
+  orientation = mid-left
+  x = 82
   action = movebutton
-  y = -50
+  y = -53
 }
 
 customization {
@@ -155,6 +184,21 @@ customization {
   width = 100
   action = resizebutton
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/transparentbutton.png
+  backgroundnormal = resources/transparentbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = sethoverlabel
+  label = [Singleplayer]
 }
 
 customization {
@@ -168,17 +212,25 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  orientation = mid-centered
-  x = 4
+  orientation = mid-left
+  x = 83
   action = movebutton
-  y = -22
+  y = 67
 }
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
-  width = 100
-  action = resizebutton
-  height = 20
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/transparentbutton.png
+  backgroundnormal = resources/transparentbutton.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = sethoverlabel
+  label = [Mods]
 }
 
 customization {
@@ -198,18 +250,9 @@ customization {
 customization {
   identifier = %id=376346%
   orientation = bottom-right
-  x = -75
+  x = -100
   action = movebutton
   y = -36
-}
-
-customization {
-  identifier = %id=376346%
-  seconds = 0.6
-  onlyfirsttime = false
-  fadein = true
-  fadeinspeed = 1.0
-  action = hidebuttonfor
 }
 
 customization {
@@ -246,25 +289,25 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
+  orientation = top-left
   splash_color = #ffff00
   hidden = false
-  x = 178
+  x = 264
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = f1bacd57-0edd-43e1-9390-f886a6fb5ee01659871202520
-  y = -69
+  y = 120
   height = 30
 }
 
 customization {
   orientation = top-left
-  hidden = true
+  hidden = false
   x = 186
   width = 268
   action = deep_customization_element:title_screen_forge_top
-  actionid = 30d7bab2-0a76-48be-8d17-55fa015179491660150110229
+  actionid = fb6d7bf8-7d00-47e4-aca7-b8d56149d76d1671626896787
   y = 4
   height = 19
 }
@@ -275,98 +318,108 @@ customization {
   x = 411
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
-  actionid = 8dc0d76b-6aed-4afa-80e9-a5b8fc655b7f1660150110230
+  actionid = f45bb04b-af00-4f30-9c62-0fe0eedf85bc1671626896787
   y = 380
   height = 9
 }
 
 customization {
-  orientation = bottom-left
-  shadow = false
-  delayappearanceseconds = 1.0
-  scale = 1.0
-  url = https://pastebin.com/raw/MUM6E26q
-  fadein = true
-  fadeinspeed = 1.0
-  multiline = true
+  path = resources/transparentback.png
+  orientation = mid-left
   x = 0
-  action = addwebtext
-  actionid = c499cb2c-4265-4a5a-942d-89dd72ee8e141649865079222
-  y = -115
-  delayappearance = true
-  alignment = left
-  delayappearanceeverytime = true
+  width = 273
+  action = addtexture
+  actionid = 91789719-f624-45c8-a157-4b191f076a291668437038054
+  y = -200
+  height = 401
 }
 
 customization {
-  orientation = mid-centered
+  orientation = mid-left
   restartbackgroundanimations = true
   delayappearanceseconds = 0.8
   buttonaction = joinserver
+  backgroundhovered = resources/transparentbutton.png
   label = Connect To Server
   loopbackgroundanimations = true
+  hoverlabel = [Connect To Server]
   fadein = true
   fadeinspeed = 1.0
-  x = -106
+  x = 82
   width = 100
   actionid = 2594378d-6be3-4630-9f90-665432e2cc721660336652262
   action = addbutton
   y = 6
   delayappearance = true
+  backgroundnormal = resources/transparentbutton.png
   value = 51.210.84.7:25570
   delayappearanceeverytime = true
   height = 20
 }
 
 customization {
-  orientation = top-centered
+  orientation = mid-right
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = https://pastebin.com/raw/MUM6E26q
+  text_border = 0
+  case_mode = normal
+  source_mode = web
+  line_spacing = 1
+  x = -271
+  width = 270
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = e8088526-6cb9-4052-9f44-98a1237941951660337341084
+  y = -187
+  alignment = right
+  height = 55
+}
+
+customization {
+  orientation = top-left
   delayappearanceseconds = 0.2
-  path = resources/logo3.gif
+  path = resources/logo.png
   fadein = true
   fadeinspeed = 1.0
-  x = -160
-  width = 320
+  x = 0
+  width = 272
   action = addtexture
-  actionid = a530ea55-cf89-4ebb-98bc-ef9ee5d3568b1662293595749
-  y = 53
+  actionid = 4aaa60cc-78a3-4fdc-b56b-a37adf7b81371660445018291
+  y = 49
   delayappearance = true
   delayappearanceeverytime = true
-  height = 68
+  height = 62
 }
 
 customization {
   orientation = top-left
   loop = true
   channel = music
-  audio_source:e51099a6-389d-4aa5-afd7-e4f077656dc41662927175999 = resources/menu.ogg;EXTERNAL_LOCAL;100;0
-  x = 491
+  x = 313
   width = 50
   action = custom_layout_element:fancymenu_extension:audio_item
-  actionid = 34e0d89b-9e84-499e-b058-fab9927cb3dc1662927164393
-  y = 193
+  actionid = 2b15f3b8-9bed-4e53-a203-f7f4b227f78d1669315870011
+  y = 207
   once_per_session = false
+  audio_source:612b0ef9-5719-49ea-991c-85e760d7cfb51669315880764 = resources/menu.ogg;EXTERNAL_LOCAL;100;0
   height = 50
 }
 
 customization {
-  orientation = top-left
+  orientation = bottom-right
   restartbackgroundanimations = true
-  delayappearanceseconds = 0.2
   buttonaction = openlink
   backgroundhovered = resources/discord-logo-icons-editorial-collection-free-vector.jpg
   label = 
   loopbackgroundanimations = true
-  fadein = true
-  fadeinspeed = 1.0
-  x = 515
+  x = -124
   width = 20
-  actionid = 4db0134e-6063-4c05-b7b4-dae65c15562d1664148187867
+  actionid = 6539d243-e8c3-4b25-a554-8ac225a22c241671627574798
   action = addbutton
-  y = 363
-  delayappearance = true
+  y = -36
   backgroundnormal = resources/discord-logo-icons-editorial-collection-free-vector.jpg
   value = https://discord.gg/JbfD6s9
-  delayappearanceeverytime = true
   height = 20
 }
 

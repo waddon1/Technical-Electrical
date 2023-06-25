@@ -1,0 +1,13 @@
+name = "Doctor Who - WhoCosmetics"
+filename = "whocosmetics-41.0.6-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ec3Ed3oz/versions/qratLzQX/whocosmetics-41.0.6-forge.jar"
+hash-format = "sha1"
+hash = "6c5ab4dce37b132a8d81b3b79382a57a1576235f"
+
+[update]
+[update.modrinth]
+mod-id = "Ec3Ed3oz"
+version = "qratLzQX"

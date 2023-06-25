@@ -1,0 +1,114 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 800
+  action = autoscale
+  basewidth = 1280
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 141
+  width = 358
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 3650ef5b-44ae-4fbd-9c34-116ed3ecb8d41677331916534
+  y = 135
+  height = 88
+}
+
+customization {
+  custom_color_hex = #010203
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 20a93e3a-b4d2-40a3-8c89-555dc3ece4f41677331916534
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #C8B273
+  orientation = top-left
+  hidden = false
+  x = 120
+  width = 400
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = ff008290-5c03-460a-a23f-f38941a311d81677331916534
+  y = 328
+  height = 10
+}
+
+customization {
+  path = resources/jdlogo.png
+  orientation = top-centered
+  x = -124
+  width = 249
+  action = addtexture
+  actionid = 38dc8fdb-8ec7-4fa1-abf8-8ca4ad25a4581677331987380
+  y = 15
+  height = 100
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = false
+  shadow = false
+  scale = 3.0
+  source = Presents
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -71
+  width = 137
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = fe1004f4-2253-4a74-b733-42e3895c134a1677332002241
+  y = -65
+  alignment = left
+  base_color = #c8b273
+  height = 42
+}
+
+customization {
+  path = resources/logo.png
+  orientation = mid-centered
+  x = -169
+  width = 328
+  action = addtexture
+  actionid = 5763b520-de93-4b28-8728-09dfaaaccd3c1677332066190
+  y = -23
+  height = 65
+}
+
+customization {
+  path = resources/anniversary.gif
+  orientation = mid-centered
+  x = -169
+  width = 328
+  action = addtexture
+  actionid = 4f54ee37-d74f-4ab6-95e0-bada8229f89b1677332167943
+  y = 55
+  height = 37
+}
+

@@ -1,13 +1,13 @@
 name = "Technical Electrical Mechanistic Mayhem [Forge] - 1.19.2"
 author = "Waddon1"
-version = "2.2.2"
+version = "2.12.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "61c4d94c8538926435287b2fd6c169fb0a85f7649fda9fad205e0eec5958fb35"
+hash = "d846474f333d1dc4ab53a0e6f1fd5a7a903afe1b333f5338edfa40726d83aa55"
 
 [versions]
-forge = "43.1.32"
+forge = "43.2.14"
 minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "YUNG's Extras"
+filename = "YungsExtras-1.19.2-Forge-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/Ltax470w/YungsExtras-1.19.2-Forge-3.1.0.jar"
+hash-format = "sha1"
+hash = "9bc4e7753c10ba8900b8abd11453b18f17637608"
+
+[update]
+[update.modrinth]
+mod-id = "ZYgyPyfq"
+version = "Ltax470w"

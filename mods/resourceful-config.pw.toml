@@ -1,0 +1,13 @@
+name = "Resourceful Config"
+filename = "resourcefulconfig-forge-1.19.2-1.0.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/6k0hdREk/resourcefulconfig-forge-1.19.2-1.0.20.jar"
+hash-format = "sha1"
+hash = "cf00a655e73e9a7aeb8e3cc3d305c62d04cd8d0b"
+
+[update]
+[update.modrinth]
+mod-id = "M1953qlQ"
+version = "6k0hdREk"

@@ -114,7 +114,7 @@
 	#Enable/Disable the Multi Player Event
 	enabled = true
 	#The first line of text under the app name
-	description = "Playing on %servername% with %players% players"
+	description = "Having fun on %servername% server"
 	#The second line of text under the app name
 	state = "Playing online"
 	#The Asset ID of the image to display as the large image

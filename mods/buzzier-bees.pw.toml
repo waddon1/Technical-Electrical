@@ -1,0 +1,13 @@
+name = "Buzzier Bees"
+filename = "buzzier_bees-1.19-5.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8dcc762d6d20aaf133f828d8dbd90f5bdf14443"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3912010
+project-id = 355458

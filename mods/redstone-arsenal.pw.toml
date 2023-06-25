@@ -1,0 +1,13 @@
+name = "Redstone Arsenal"
+filename = "redstone_arsenal-1.19.2-7.2.0.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KfkTLdPl/versions/vWN4ZeuT/redstone_arsenal-1.19.2-7.2.0.15.jar"
+hash-format = "sha1"
+hash = "736f3d115fa152d031239f41bbb621b9150a0885"
+
+[update]
+[update.modrinth]
+mod-id = "KfkTLdPl"
+version = "vWN4ZeuT"
