@@ -1,0 +1,13 @@
+name = "The Bumblezone - Forge"
+filename = "the_bumblezone-7.2.2+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/38tpSycf/versions/O2GUFLlP/the_bumblezone-7.2.2%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "7ca195c8baa19f0e1443fb5b2f532f7264d7c091"
+
+[update]
+[update.modrinth]
+mod-id = "38tpSycf"
+version = "O2GUFLlP"

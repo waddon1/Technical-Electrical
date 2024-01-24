@@ -1,0 +1,13 @@
+name = "Deep Resonance"
+filename = "deepresonance-1.20-5.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gzruRGfo/versions/ZZ0vWy4o/deepresonance-1.20-5.0.3.jar"
+hash-format = "sha1"
+hash = "f9944d48f6f59b45a602a1e9b3aee7c43816e58a"
+
+[update]
+[update.modrinth]
+mod-id = "gzruRGfo"
+version = "ZZ0vWy4o"

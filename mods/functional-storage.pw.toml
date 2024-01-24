@@ -1,13 +1,13 @@
 name = "Functional Storage"
-filename = "functionalstorage-1.19.2-1.1.3.jar"
+filename = "functionalstorage-1.20.1-1.2.8.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/9mbqNxhz/functionalstorage-1.20.1-1.2.8.jar"
 hash-format = "sha1"
-hash = "265ddb784fc8cb204c0de9d80ac32793e1640a68"
-mode = "metadata:curseforge"
+hash = "afda30f78d50c1e475c6772fd6bd5f2ed14ce74f"
 
 [update]
-[update.curseforge]
-file-id = 4324174
-project-id = 556861
+[update.modrinth]
+mod-id = "cO40ZIg3"
+version = "9mbqNxhz"

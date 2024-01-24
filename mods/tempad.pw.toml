@@ -1,0 +1,13 @@
+name = "Tempad"
+filename = "tempad-forge-1.20.1-2.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/wk8WHWrR/tempad-forge-1.20.1-2.3.3.jar"
+hash-format = "sha1"
+hash = "7d6ea1e1909c04d87829616d8bd2b4758bd8ae39"
+
+[update]
+[update.modrinth]
+mod-id = "gKNwt7xu"
+version = "wk8WHWrR"

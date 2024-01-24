@@ -1,13 +1,13 @@
 name = "Thermal Integration"
-filename = "thermal_integration-1.19.2-10.2.0.17.jar"
+filename = "thermal_integration-1.20.1-11.0.0.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ro7yiyD4/versions/BViBTsCf/thermal_integration-1.19.2-10.2.0.17.jar"
+url = "https://cdn.modrinth.com/data/Ro7yiyD4/versions/DEkLHp9t/thermal_integration-1.20.1-11.0.0.23.jar"
 hash-format = "sha1"
-hash = "9323fdd3db2fe34234a699631fa1f7a1454fd645"
+hash = "6478a9edf0f669483d648737ba57f2818a5bbfcc"
 
 [update]
 [update.modrinth]
 mod-id = "Ro7yiyD4"
-version = "BViBTsCf"
+version = "DEkLHp9t"

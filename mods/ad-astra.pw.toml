@@ -1,13 +1,13 @@
-name = "Ad Astra!"
-filename = "ad_astra-forge-1.19.2-1.12.6.jar"
+name = "Ad Astra"
+filename = "ad_astra-forge-1.20.1-1.15.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/lsWkbtEH/ad_astra-forge-1.19.2-1.12.6.jar"
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZUVEpame/ad_astra-forge-1.20.1-1.15.10.jar"
 hash-format = "sha1"
-hash = "68061e6fbb93776ae34b8ceec2603725e41d0126"
+hash = "db0bce4c4eb65857e844ef484c729b585459da97"
 
 [update]
 [update.modrinth]
 mod-id = "3ufwT9JF"
-version = "lsWkbtEH"
+version = "ZUVEpame"

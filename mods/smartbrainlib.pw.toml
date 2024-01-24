@@ -1,13 +1,13 @@
 name = "SmartBrainLib"
-filename = "SmartBrainLib-forge-1.19.2-1.9.jar"
+filename = "SmartBrainLib-forge-1.20.1-1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PuyPazRT/versions/R8SV4kEf/SmartBrainLib-forge-1.19.2-1.9.jar"
+url = "https://cdn.modrinth.com/data/PuyPazRT/versions/oLNiEUfG/SmartBrainLib-forge-1.20.1-1.13.jar"
 hash-format = "sha1"
-hash = "99f4197faef17fdbf323b9bac810011853c4c11b"
+hash = "5ca09d234fce6023d5d9d236880a0bdf24e987c0"
 
 [update]
 [update.modrinth]
 mod-id = "PuyPazRT"
-version = "R8SV4kEf"
+version = "oLNiEUfG"

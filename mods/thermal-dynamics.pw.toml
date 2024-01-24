@@ -1,13 +1,13 @@
 name = "Thermal Dynamics"
-filename = "thermal_dynamics-1.19.2-10.2.1b.14.jar"
+filename = "thermal_dynamics-1.20.1-11.0.0.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t8bmWGI2/versions/30fQeIqc/thermal_dynamics-1.19.2-10.2.1b.14.jar"
+url = "https://cdn.modrinth.com/data/t8bmWGI2/versions/p9nikhT8/thermal_dynamics-1.20.1-11.0.0.21.jar"
 hash-format = "sha1"
-hash = "9281ebd786e28749205018f25e3ef90bbff56393"
+hash = "b3709affeeba600e9968d9caf53a8bf092597059"
 
 [update]
 [update.modrinth]
 mod-id = "t8bmWGI2"
-version = "30fQeIqc"
+version = "p9nikhT8"

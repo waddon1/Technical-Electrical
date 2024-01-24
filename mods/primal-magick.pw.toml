@@ -1,13 +1,13 @@
 name = "Primal Magick"
-filename = "primalmagick-3.2.1.jar"
+filename = "primalmagick-4.0.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VlgDBPBy/versions/1FCNz8ou/primalmagick-3.2.1.jar"
+url = "https://cdn.modrinth.com/data/VlgDBPBy/versions/wuqFbAJr/primalmagick-4.0.9.jar"
 hash-format = "sha1"
-hash = "589dc73577f0c9fedccc93d49cacd677376c8825"
+hash = "372fb997afc043a43bcf9dbe5b64911b0ac36353"
 
 [update]
 [update.modrinth]
 mod-id = "VlgDBPBy"
-version = "1FCNz8ou"
+version = "wuqFbAJr"

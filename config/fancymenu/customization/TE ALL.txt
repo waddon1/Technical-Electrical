@@ -15,7 +15,7 @@ customization {
 
 customization {
   orientation = mid-centered
-  loop = false
+  loop = true
   channel = music
   audio_source:73307100-9187-4ecb-95ed-430d489d1f8f1660336831013 = resources/menu.ogg;EXTERNAL_LOCAL;100;0
   x = -25

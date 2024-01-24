@@ -1,0 +1,13 @@
+name = "Capes"
+filename = "capes-1.5.2+1.20-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/84s3PTI1/capes-1.5.2%2B1.20-forge.jar"
+hash-format = "sha1"
+hash = "c2631e7e3f43cb5a14949174ef3e4ffa5ffbe4fe"
+
+[update]
+[update.modrinth]
+mod-id = "89Wsn8GD"
+version = "84s3PTI1"

@@ -1,0 +1,13 @@
+name = "CraterLib"
+filename = "CraterLib-Forge-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/90lpZF84/CraterLib-Forge-1.20-1.1.1.jar"
+hash-format = "sha1"
+hash = "7844409ad9cd48ec43337499f2b12e20ed15f02d"
+
+[update]
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "90lpZF84"

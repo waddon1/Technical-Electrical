@@ -1,13 +1,13 @@
-name = "Technical Electrical Mechanistic Mayhem [Forge] - 1.19.2"
+name = "Technical Electrical Eclectic Espionage Ultimate Edition"
 author = "Waddon1"
-version = "2.12.9"
+version = "3.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d846474f333d1dc4ab53a0e6f1fd5a7a903afe1b333f5338edfa40726d83aa55"
+hash = "fbe8163d8440fea85db8dc9b398d6a9f29eba5e0d31d8ea3bde355f29e83bf82"
 
 [versions]
-forge = "43.2.14"
-minecraft = "1.19.2"
+forge = "47.2.20"
+minecraft = "1.20.1"

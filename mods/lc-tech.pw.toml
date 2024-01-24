@@ -1,0 +1,13 @@
+name = "LC Tech"
+filename = "lctech-1.20.1-0.2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/US8EsYXT/versions/IK8Vr6E3/lctech-1.20.1-0.2.1.0.jar"
+hash-format = "sha1"
+hash = "0d733ccc899db9a1ca6ab0bd59d6d2424e38df8f"
+
+[update]
+[update.modrinth]
+mod-id = "US8EsYXT"
+version = "IK8Vr6E3"

@@ -27,6 +27,7 @@ customization {
 customization {
   orientation = top-left
   hidden = true
+  original_pos_size_calculation = true
   x = 141
   width = 358
   action = deep_customization_element:drippy_overlay_logo
@@ -48,9 +49,10 @@ customization {
 }
 
 customization {
-  custom_color_hex = #C8B273
+  custom_color_hex = #008BCE
   orientation = top-left
   hidden = false
+  original_pos_size_calculation = true
   x = 120
   width = 400
   action = deep_customization_element:drippy_overlay_progress_bar
@@ -71,26 +73,6 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
-  enable_scrolling = false
-  shadow = false
-  scale = 3.0
-  source = Presents
-  text_border = 0
-  case_mode = normal
-  source_mode = direct
-  line_spacing = 1
-  x = -71
-  width = 137
-  action = custom_layout_element:fancymenu_customization_item_text
-  actionid = fe1004f4-2253-4a74-b733-42e3895c134a1677332002241
-  y = -65
-  alignment = left
-  base_color = #c8b273
-  height = 42
-}
-
-customization {
   path = resources/logo.png
   orientation = mid-centered
   x = -169
@@ -102,13 +84,22 @@ customization {
 }
 
 customization {
-  path = resources/anniversary.gif
   orientation = mid-centered
-  x = -169
-  width = 328
-  action = addtexture
-  actionid = 4f54ee37-d74f-4ab6-95e0-bada8229f89b1677332167943
-  y = 55
-  height = 37
+  enable_scrolling = false
+  shadow = false
+  scale = 3.0
+  source = Presents
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -72
+  width = 143
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = fe1004f4-2253-4a74-b733-42e3895c134a1677332002241
+  y = -68
+  alignment = left
+  base_color = 008BCE
+  height = 42
 }
 

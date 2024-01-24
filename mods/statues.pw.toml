@@ -1,13 +1,13 @@
 name = "Statues"
-filename = "Statues-1.19.2-0.3.2.8.jar"
+filename = "Statues-1.20.1-0.4.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/hsCeX7k7/versions/EH4VNEku/Statues-1.20.1-0.4.0.1.jar"
 hash-format = "sha1"
-hash = "c0ddffc47d23b4ca98fc27e75109fcb75ad70862"
-mode = "metadata:curseforge"
+hash = "8fa42f3fdf59554af2184b589b7e1484504978bc"
 
 [update]
-[update.curseforge]
-file-id = 4583132
-project-id = 253172
+[update.modrinth]
+mod-id = "hsCeX7k7"
+version = "EH4VNEku"

@@ -1,0 +1,13 @@
+name = "Spooklementary"
+filename = "Spooklementary_1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6uJCfiCH/versions/biyi2YC2/Spooklementary_1.1.zip"
+hash-format = "sha1"
+hash = "19dbcf0ab3714b1402e375ee71f3d5b18a3eb44f"
+
+[update]
+[update.modrinth]
+mod-id = "6uJCfiCH"
+version = "biyi2YC2"
