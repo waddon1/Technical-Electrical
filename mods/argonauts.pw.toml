@@ -1,0 +1,13 @@
+name = "Argonauts"
+filename = "argonauts-neoforge-1.20.4-1.2.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/EBD0qDzw/argonauts-neoforge-1.20.4-1.2.4.jar"
+hash-format = "sha1"
+hash = "756dedf0aaebc5a7cbc69a7bf0408da9326c39c6"
+
+[update]
+[update.modrinth]
+mod-id = "bb2EpKpx"
+version = "EBD0qDzw"

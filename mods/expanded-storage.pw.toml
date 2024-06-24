@@ -1,0 +1,13 @@
+name = "Expanded Storage"
+filename = "expandedstorage-12.1.0-beta.4+1.20.4-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jCCPlP3c/versions/IPneuYdu/expandedstorage-12.1.0-beta.4%2B1.20.4-forge.jar"
+hash-format = "sha1"
+hash = "48581400746b60c41bfd92efa78c040358bf7d66"
+
+[update]
+[update.modrinth]
+mod-id = "jCCPlP3c"
+version = "IPneuYdu"

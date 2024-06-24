@@ -1,0 +1,13 @@
+name = "BetterF3"
+filename = "BetterF3-9.0.2-NeoForge-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8shC1gFX/versions/jmwTc5n8/BetterF3-9.0.2-NeoForge-1.20.4.jar"
+hash-format = "sha1"
+hash = "de9a533d038d1e5fa930897e7a699e0f5b1d7d10"
+
+[update]
+[update.modrinth]
+mod-id = "8shC1gFX"
+version = "jmwTc5n8"

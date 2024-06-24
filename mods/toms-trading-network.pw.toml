@@ -1,0 +1,13 @@
+name = "Tom's Trading Network"
+filename = "toms_trading_network-1.20.4-0.2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x5iQ3NM5/versions/qoEHJHUZ/toms_trading_network-1.20.4-0.2.9.jar"
+hash-format = "sha1"
+hash = "e1c213b6ef126e4219b32599ff61c6ab04d16c07"
+
+[update]
+[update.modrinth]
+mod-id = "x5iQ3NM5"
+version = "qoEHJHUZ"

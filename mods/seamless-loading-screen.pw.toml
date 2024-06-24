@@ -1,0 +1,13 @@
+name = "Seamless Loading Screen "
+filename = "seamless-loading-screen-2.1.1+1.20.4-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/DCVVqi19/seamless-loading-screen-2.1.1%2B1.20.4-neoforge.jar"
+hash-format = "sha1"
+hash = "c2cacb5611762a6977090f0940da93ff1da724cc"
+
+[update]
+[update.modrinth]
+mod-id = "TyTPFOiF"
+version = "DCVVqi19"

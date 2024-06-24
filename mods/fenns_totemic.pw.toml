@@ -1,0 +1,13 @@
+name = "Totemic"
+filename = "Totemic-neoforge-1.20.4-0.12.12.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GLffYJtD/versions/mQMQMBjM/Totemic-neoforge-1.20.4-0.12.12.1.jar"
+hash-format = "sha1"
+hash = "fa55491a36a8d0ded78b0dcfcaba534d040d6ec7"
+
+[update]
+[update.modrinth]
+mod-id = "GLffYJtD"
+version = "mQMQMBjM"

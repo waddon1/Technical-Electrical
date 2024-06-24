@@ -1,13 +1,13 @@
 name = "Tempad"
-filename = "tempad-forge-1.20.1-2.3.3.jar"
+filename = "tempad-neoforge-1.20.4-2.3.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/wk8WHWrR/tempad-forge-1.20.1-2.3.3.jar"
+url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/CTPjIMIA/tempad-neoforge-1.20.4-2.3.7.jar"
 hash-format = "sha1"
-hash = "7d6ea1e1909c04d87829616d8bd2b4758bd8ae39"
+hash = "8472a672045d46cc4168813278a168ad023284a2"
 
 [update]
 [update.modrinth]
 mod-id = "gKNwt7xu"
-version = "wk8WHWrR"
+version = "CTPjIMIA"

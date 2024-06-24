@@ -1,0 +1,13 @@
+name = "Age of Weapons - Reforged"
+filename = "AgeOfWeapons-Reforged-1.20.4-(v.1.4.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cJz6vYNZ/versions/4RtHFegm/AgeOfWeapons-Reforged-1.20.4-%28v.1.4.1%29.jar"
+hash-format = "sha1"
+hash = "b4ad7c674017dcc3c39f6648c1e5eaf040a96b9d"
+
+[update]
+[update.modrinth]
+mod-id = "cJz6vYNZ"
+version = "4RtHFegm"

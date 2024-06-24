@@ -1,13 +1,13 @@
 name = "AI Improvements"
-filename = "AI-Improvements-1.20-0.5.2.jar"
+filename = "AI-Improvements-1.20.2-0.5.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar"
+url = "https://cdn.modrinth.com/data/DSVgwcji/versions/FXloZ58B/AI-Improvements-1.20.2-0.5.3.jar"
 hash-format = "sha1"
-hash = "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8"
+hash = "c757da40c1bf38ad9c26f38063b5516cb3df5ba1"
 
 [update]
 [update.modrinth]
 mod-id = "DSVgwcji"
-version = "eJihmpNQ"
+version = "FXloZ58B"

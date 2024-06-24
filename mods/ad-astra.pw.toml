@@ -1,13 +1,13 @@
 name = "Ad Astra"
-filename = "ad_astra-forge-1.20.1-1.15.10.jar"
+filename = "adastra-neoforge-1.20.4-1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/ZUVEpame/ad_astra-forge-1.20.1-1.15.10.jar"
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/Pl56bqmV/adastra-neoforge-1.20.4-1.16.5.jar"
 hash-format = "sha1"
-hash = "db0bce4c4eb65857e844ef484c729b585459da97"
+hash = "bd73649dddf8bc81c79563af8b8203020e380f2c"
 
 [update]
 [update.modrinth]
 mod-id = "3ufwT9JF"
-version = "ZUVEpame"
+version = "Pl56bqmV"

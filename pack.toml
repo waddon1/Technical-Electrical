@@ -1,13 +1,13 @@
-name = "Technical Electrical Eclectic Espionage Ultimate Edition"
+name = "Technical Electrical: Whimsical Wonders"
 author = "Waddon1"
-version = "3.6.0"
+version = "4.3.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fbe8163d8440fea85db8dc9b398d6a9f29eba5e0d31d8ea3bde355f29e83bf82"
+hash = "80f80416cba014b26d0e576aacaa4ceaa549f0e8f729d7b428f58e0c438a450a"
 
 [versions]
-forge = "47.2.20"
-minecraft = "1.20.1"
+minecraft = "1.20.4"
+neoforge = "20.4.237"

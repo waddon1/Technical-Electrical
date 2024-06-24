@@ -2,7 +2,7 @@
 #General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
 [general]
 	#The Application ID of the Discord App to use
-	applicationID = 1133173834598592672
+	applicationID = 1221611639543959644
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
@@ -19,13 +19,13 @@
 	#Enable/Disable the Game Loading Event
 	enabled = true
 	#The first line of text under the app name
-	description = "TE:EE is loading"
+	description = "TE: Whimsical Wonders is loading"
 	#The second line of text under the app name
-	state = "TE:EE Initiating Loading Sequence"
+	state = "TE: Whimsical Wonders Initiating Loading Sequence"
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "TE:EE - MC 1.20.1"
+	largeImageText = "TE: Whimsical Wonders - MC 1.20.4"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = [""]
 	#The text that gets displayed when the small image is hovered
@@ -33,7 +33,7 @@
 
 	#The buttons to display on Discord
 	[[init.buttons]]
-		label = "Download TE: EE!"
+		label = "Download TE: Whimsical Wonders!"
 		url = "https://modrinth.com/modpack/technical-electrical"
 
 	[[init.buttons]]
@@ -51,7 +51,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "TE:EE - MC 1.20.1"
+	largeImageText = "TE: Whimsical Wonders - MC 1.20.4"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = [""]
 	#The text that gets displayed when the small image is hovered
@@ -59,7 +59,7 @@
 
 	#The buttons to display on Discord
 	[[main_menu.buttons]]
-		label = "Download TE: EE!"
+		label = "Download TE: Whimsical Wonders!"
 		url = "https://modrinth.com/modpack/technical-electrical"
 
 	[[main_menu.buttons]]
@@ -77,7 +77,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "TE:EE - MC 1.20.1"
+	largeImageText = "TE: Whimsical Wonders - MC 1.20.4"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = [""]
 	#The text that gets displayed when the small image is hovered
@@ -85,7 +85,7 @@
 
 	#The buttons to display on Discord
 	[[server_list.buttons]]
-		label = "Download TE: EE!"
+		label = "Download TE: Whimsical Wonders!"
 		url = "https://modrinth.com/modpack/technical-electrical"
 
 	[[server_list.buttons]]
@@ -122,7 +122,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "TE:EE - MC 1.20.1"
+	largeImageText = "TE: Whimsical Wonders - MC 1.20.4"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = [""]
 	#The text that gets displayed when the small image is hovered
@@ -130,7 +130,7 @@
 
 	#The buttons to display on Discord
 	[[join_game.buttons]]
-		label = "Download TE: EE!"
+		label = "Download TE: Whimsical Wonders!"
 		url = "https://modrinth.com/modpack/technical-electrical"
 
 	[[join_game.buttons]]
@@ -148,7 +148,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "TE:EE - MC 1.20.1"
+	largeImageText = "TE: Whimsical Wonders - MC 1.20.4"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = [""]
 	#The text that gets displayed when the small image is hovered
@@ -156,7 +156,7 @@
 
 	#The buttons to display on Discord
 	[[single_player.buttons]]
-		label = "Download TE: EE!"
+		label = "Download TE: Whimsical Wonders!"
 		url = "https://modrinth.com/modpack/technical-electrical"
 
 	[[single_player.buttons]]
@@ -174,7 +174,7 @@
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "TE:EE - MC 1.20.1"
+	largeImageText = "TE: Whimsical Wonders - MC 1.20.4"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = [""]
 	#The text that gets displayed when the small image is hovered
@@ -182,7 +182,7 @@
 
 	#The buttons to display on Discord
 	[[multi_player.buttons]]
-		label = "Download TE: EE!"
+		label = "Download TE: Whimsical Wonders!"
 		url = "https://modrinth.com/modpack/technical-electrical"
 
 	[[multi_player.buttons]]
@@ -211,13 +211,13 @@
 #Fallback event for disabled events
 [generic]
 	#The first line of text under the app name
-	description = "Playing TE:EE"
+	description = "Playing TE: Whimsical Wonders"
 	#The second line of text under the app name
 	state = ""
 	#The Asset ID of the image to display as the large image
 	largeImageKey = ["mclogonew"]
 	#The text that gets displayed when the large image is hovered
-	largeImageText = "TE:EE - MC 1.20.1"
+	largeImageText = "TE: Whimsical Wonders - MC 1.20.4"
 	#The Asset ID of the image to display as the small image
 	smallImageKey = [""]
 	#The text that gets displayed when the small image is hovered
@@ -225,7 +225,7 @@
 
 	#The buttons to display on Discord
 	[[generic.buttons]]
-		label = "Download TE: EE!"
+		label = "Download TE: Whimsical Wonders!"
 		url = "https://modrinth.com/modpack/technical-electrical"
 
 	[[generic.buttons]]

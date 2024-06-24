@@ -1,0 +1,13 @@
+name = "Hyperbox"
+filename = "hyperbox-1.20.4-5.0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRfPwYyB/versions/Eeg264Ka/hyperbox-1.20.4-5.0.1.0.jar"
+hash-format = "sha1"
+hash = "ef60a83f3cf7a9bc3565c92e7c0c852328127fc3"
+
+[update]
+[update.modrinth]
+mod-id = "bRfPwYyB"
+version = "Eeg264Ka"

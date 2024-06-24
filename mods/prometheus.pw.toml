@@ -1,0 +1,13 @@
+name = "Prometheus"
+filename = "prometheus-neoforge-1.20.4-1.4.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iYcNKH7W/versions/3dB8GjKn/prometheus-neoforge-1.20.4-1.4.2.jar"
+hash-format = "sha1"
+hash = "39cccd58b22df6c4eef39bb31d505286c3a95ef3"
+
+[update]
+[update.modrinth]
+mod-id = "iYcNKH7W"
+version = "3dB8GjKn"

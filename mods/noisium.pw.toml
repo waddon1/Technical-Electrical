@@ -1,0 +1,14 @@
+name = "Noisium"
+filename = "noisium-neoforge-2.0.3+mc1.20.2-1.20.4.jar"
+side = "server"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/rS9OSRtd/noisium-neoforge-2.0.3%2Bmc1.20.2-1.20.4.jar"
+hash-format = "sha1"
+hash = "94be4f8a66bf0997d71dac1f82c6ebcc491b82b6"
+
+[update]
+[update.modrinth]
+mod-id = "KuNKN7d2"
+version = "rS9OSRtd"

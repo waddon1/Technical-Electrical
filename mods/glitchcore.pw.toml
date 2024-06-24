@@ -1,0 +1,13 @@
+name = "GlitchCore"
+filename = "GlitchCore-neoforge-1.20.4-1.0.0.59.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/fjNK5lKo/GlitchCore-neoforge-1.20.4-1.0.0.59.jar"
+hash-format = "sha1"
+hash = "eb55cd67f31740ab2b3f3712b4c26867505b950a"
+
+[update]
+[update.modrinth]
+mod-id = "s3dmwKy5"
+version = "fjNK5lKo"
